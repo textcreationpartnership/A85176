@@ -1,0 +1,746 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new non-conformist; who having obtained help of God, doth persist unto this very day; witnessing, both to small and great, some of those glorious things which the Apostles, the prophets, &amp; Moses, did say should come to pass. Or, the voice of a careful shepherd, crying from his watch-tower at W.C. unto his little flock at W.L. with a loud voice.</title>
+            <author>Feake, Christopher, fl. 1645-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 121 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85176</idno>
+            <idno type="STC">Wing F571</idno>
+            <idno type="STC">Thomason E737_1</idno>
+            <idno type="STC">ESTC R202090</idno>
+            <idno type="EEBO-CITATION">99862497</idno>
+            <idno type="PROQUEST">99862497</idno>
+            <idno type="VID">114658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114658)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E737[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new non-conformist; who having obtained help of God, doth persist unto this very day; witnessing, both to small and great, some of those glorious things which the Apostles, the prophets, &amp; Moses, did say should come to pass. Or, the voice of a careful shepherd, crying from his watch-tower at W.C. unto his little flock at W.L. with a loud voice.</title>
+                  <author>Feake, Christopher, fl. 1645-1660.</author>
+               </titleStmt>
+               <extent>[20], 39, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Livewel Chapman, at the Crown in Popes-head-Alley.,</publisher>
+                  <pubPlace>Printed at London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: Christopher Feake.</note>
+                  <note>The words "from his watch-tower .. flock at W.L." are bracketed together on title page.</note>
+                  <note>"A short word to the faithful remnant, who are of one spirit in the present truth, and cause of Christ", [4] p. at end.</note>
+                  <note>Annotation on Thomason copy: "May. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Radicals --  Great Britain --  History --  17th century.</term>
+               <term>Fifth Monarchy Men --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114658:1" rendition="simple:additions"/>
+            <p>THE NEW Non-conformiſt; Who having obtained help of GOD, doth perſiſt unto this very day; WITNESSING, Both to Small and GREAT, Some of thoſe Glorious Things WHICH The Apoſtles, the Prophets, &amp; Moſes, did ſay ſhould come to paſs.</p>
+            <p>OR, The VOICE of A Careful Shepherd, Crying,
+<list>
+                  <item>From his Watch-tower at <hi>W.C.</hi>
+                  </item>
+                  <item>Unto his Little Flock at <hi>W.L.</hi>
+                  </item>
+               </list> With a loud Voice.</p>
+            <q>
+               <bibl>Matth. 10.17. Matth. 7.15. Philip. 3.2. Tit. 1.12.</bibl>
+               <p>BEWARE of Men: Beware of Dogs: Beware of Wolves, and of other evil Beaſts.</p>
+            </q>
+            <q>
+               <bibl>Joh. 10.11, 12, 13.</bibl>
+               <p>The GOOD SHEPHERD giveth his life for the ſheep. But He that is an <hi>HIRELING,</hi> and not the Shepherd, whoſe own the ſheep are not, ſeeth the wolf coming, and leaveth the ſheep, and fleeth; and the wolf catcheth them, and ſcattereth the ſheep. The Hireling fleeth, becauſe he is an Hire<g ref="char:EOLhyphen"/>ling, and careth not for the ſheep.</p>
+            </q>
+            <p>Printed at <hi>London,</hi> for <hi>Livewel Chapman,</hi> at the Crown in Popes-head-Alley. 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114658:2"/>
+            <pb facs="tcp:114658:2"/>
+            <head>A PREFACE To every Honeſt and Intelligent READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T ſeemed good unto the Apo<g ref="char:EOLhyphen"/>ſtles, and Elders,
+<note place="margin">Act. 15.23, <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> and Brethren at <hi>Jeruſalem,</hi> when they wrote to the brethren of the Gentiles in <hi>Antioch,</hi> and <hi>Syria</hi> and <hi>Cilicia,</hi> to recommend their beloved <hi>Barnabas</hi> and <hi>Paul,</hi> with this ſhort choice Character; They are <hi>men which have hazarded their lives for the Name of our Lord Ieſus Chriſt.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Tradi<g ref="char:EOLhyphen"/>derunt animas.</hi> Bez. <hi>expoſue<g ref="char:EOLhyphen"/>runt.</hi>
+               </note>
+            </p>
+            <p>And verily they muſt not love the Lord Jeſus at that ordinary rate, which even the Biſhops and the Deacons of the Churches generally content them<g ref="char:EOLhyphen"/>ſelves withal at this day, who do intend to adven<g ref="char:EOLhyphen"/>ture their lives in his Cauſe, and for his Name, a<g ref="char:EOLhyphen"/>gainſt the preſent refined policies and practices of
+<pb facs="tcp:114658:3"/>the Whoriſh Woman and her lovers, the Kings of the earth, with their Retinue.</p>
+            <p>It is a ſad Symptome,
+<note place="margin">Mat. 24.12.</note> when the love of many grows colder and colder, at that point of time, when the Lord expects (as well he may, if you knew all, Chriſtian friends) it ſhould grow hotter and hotter, till it amounts to that degree, and <hi>per<g ref="char:EOLhyphen"/>fection of operation</hi> which is mentioned <hi>Rev.</hi> 11.5. <hi>If any One will hurt them, who ſtand before the Lord of the whole earth, fire proceedeth of out their mouth, and devoureth their enemies: and if ANY ONE will hurt them, he muſt in this maner be killed.</hi>
+            </p>
+            <p>I humbly conceive, the Word of JEHOVAH is not in any of his ſervants hearts as A BURNING FIRE, but they are alſo at the ſame time enflamed with love and zeal: this multiplication of heat, as I may ſo ſay, cauſeth them, like <hi>Ieremiah,</hi> to be weary of forbearing,
+<note place="margin">Jer. 20.9.</note> ſo that they cannot ſtay and contain themſelves within thoſe bounds of Me<g ref="char:EOLhyphen"/>diocrity and Moderation, which uſed to be cried up by the luke-warm generation of Preachers and Profeſſors in all ages hitherto.</p>
+            <p>But the Scriptures muſt be fulfilled; and there<g ref="char:EOLhyphen"/>fore, it's not to be admired, that there ſhould be <hi>ſuch an univerſal Apoſtacy,</hi> and that thoſe who had <hi>a Name to live,
+<note place="margin">Rev. 3.1.</note> are now dead.</hi> Wonder not, I ſay, Oh Little Remnant! that there are ſo many fallen a<g ref="char:EOLhyphen"/>ſleep, but rather ponder the true reaſon, why there are any kept awake.</p>
+            <p>For, that moſt excellent old Doctrine, which our Lord taught his Diſciples, in the daies of his fleſh (and accordingly, after his aſcenſion was very much practiſed) hath been of late, if you obſerve
+<pb facs="tcp:114658:3"/>it, almoſt utterly out of date, I mean the <hi>Doctrine of ſelf-denial,</hi> and of forſaking all (Relations,
+<note place="margin">Mat. 16.24. Luke. 9.23.</note> Liber<g ref="char:EOLhyphen"/>ty, Goods, good Name, yea, life it ſelf,) for his ſake and the Goſpels; How little is it preached now? how much leſs is it practiſed? <hi>But the rea<g ref="char:EOLhyphen"/>ſon is ready, and upon record:</hi> Theſe are the laſt days; and the Spirit ſpeaketh plainly,
+<note place="margin">2 Tim. 3.1, <hi>&amp;c.</hi>
+               </note> and without a Pa<g ref="char:EOLhyphen"/>rable, <hi>That in thoſe days</hi> men ſhall <hi>be lovers of their own ſelves, cevetous, boaſters, proud, blaſphemers,</hi> &amp;c. <hi>lovers of pleaſures more then lovers of God,</hi> (yet) <hi>having a form of godlineſs, but denying the power thereof.</hi> Obſerve, whether very many, in ſtead of denying themſelves, as Chriſt hath taught, do not deny the power of godlineſs,
+<note place="margin">2 Pet. 2.1.</note> and the Lord that bought them, as the world and luſt perſwade.</p>
+            <p>But hearken, dear hearts, and be cheerful; yea, be ye very joyful in believing, that the Spirit of life and power from God, ſhall ere it be long, en<g ref="char:EOLhyphen"/>ter into a choice company,
+<note place="margin">Rev. 11. Ezek. 37.10.</note> and they ſhall ſtand upon their feet; and fear ſhall fall upon all thoſe who ſee them: for I know and am perſwaded, that there is at this preſent time, <hi>a remnant according to the election of grace reſerved by God to himſelf,</hi>
+               <note place="margin">Rom. 11.4, 5.</note> (not<g ref="char:EOLhyphen"/>withſtanding the preſent Apoſtacy) who have not bowed the knee either to the Beaſt or to his Image. I wait to ſee <hi>this reſerved remnant</hi> call'd out of their ſeveral holes and caves, where they are hid from the world, and from one another, and ſo brought together, even as ſo many dry bones, bone to his bone, <hi>&amp;c.</hi> to make a ſtanding Army for the King of Saints, in the time appointed of the Fa<g ref="char:EOLhyphen"/>ther.</p>
+            <pb facs="tcp:114658:4"/>
+            <p>Mine heart,
+<note place="margin">Judg. 5.9.</note> (a <hi>Deborah's</hi> was) is towards the Go<g ref="char:EOLhyphen"/>vernours of <hi>Iſrael,</hi> that offer themſelves willingly among the people: bleſs ye the Lord. Oh! keep your garments clean, and cloſe about you, and you ſhall walk with Chriſt in white, for ſuch are worthy. How do I rejoyce in Spirit, that I can in Spirit go thorow the grates of my Priſon, and paſs thorow all the guards, which are ſet to ſhut and keep me up from the ſociety of the Saints, and converſe ſweetly in a myſtery, with thoſe be<g ref="char:EOLhyphen"/>loved Brethren of mine, whoſe faces I never ſaw in the fleſh!</p>
+            <p>Methinks I hear,
+<note place="margin">A myſtical Con<g ref="char:EOLhyphen"/>ference, betwixt the priſoner and his Brethren, who are one ſpirit with him, in the preſent truth and work of God in the world. <hi>Dan. 8.13.</hi>
+               </note> with <hi>Daniel,</hi> one Saint ſpeaking and another Saint ſaying unto that certain Saint which ſpake, How long ſhall be the viſion con<g ref="char:EOLhyphen"/>cerning the daily ſacrifice, and the tranſgreſſion of deſolation, to give both the Sanctuary &amp; the Hoſt to be troden under foot? Then methinks I hear a ſweet voice from another Believer, ſaying, The Sanctuary ſhall be cleanſed, it ſhall be cleanſed. <hi>Amen,</hi> ſay I, from my watch-Tower: the Lords Sanctuary hath need of cleanſing.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But where are the Inſtruments, ſay others, and who ſhall be imployed in this glorious work? we thought the Son of <hi>David</hi> had had ſuch Worthies come from <hi>New-England</hi> &amp; from <hi>Holland,</hi> at the begin<g ref="char:EOLhyphen"/>ning of the late great revolution, as would not one<g ref="char:EOLhyphen"/>ly have helped to maintain their own &amp; their Bre<g ref="char:EOLhyphen"/>threns attainments; but would alſo have advanced valiantly, like undaunted Leaders of the Lords vo<g ref="char:EOLhyphen"/>luntiers,
+<note place="margin">2 Tim. 2.3.</note> upon the old carnal Church and its Cler<g ref="char:EOLhyphen"/>gie: and, as becomes good Souldiers of Jeſus Chriſt, would have endured any hardneſs, rather
+<pb facs="tcp:114658:4"/>then have given place by retreat or ſubjection, though but for an hour,
+<note place="margin">Gal. 2.5.</note> that ſo the truth of the Goſpel of the Kingdom might have prevailed in the World.</p>
+            <p>We had theſe honorable thoughts of them; but alas, where are they? and what is become of theſe reputed Champions, for the Lamb againſt the Beaſt? are not moſt of them even revolted and gone?
+<note place="margin">2 Tim. 2.4.</note> are they not entangled in the affairs of this life? yea, are not ſome of them buſie in building again the Things they have deſtroy<g ref="char:EOLhyphen"/>ed?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Be not doubtful of minde, Oh little Flock! live not in careful ſuſpence,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Luke 12.30.</note> carried like Meteors be<g ref="char:EOLhyphen"/>twixt Heaven and Earth. The zeal of the Lord of Hoſts ſhall perform this great Thing whereof we ſpeak: and if need be, Jehovah will create a Spirit of judgement, and a Spirit of burning, for the ac<g ref="char:EOLhyphen"/>compliſhing that honourable Enterprize for his Son, which the hearts of the choiceſt Saints are ſo much upon.</p>
+            <p>Again, It's probable,
+<note place="margin">1 Cor. 1.27.</note> God will take ſome fooliſh Thing or other, ſome weak, ſome deſpiſed Thing, to perfect his praiſe, in the midſt of all his ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>For oftentimes of old, the Inſtruments have been too Many, ſometimes too Mighty, ſometimes too Wiſe for God to uſe. Wherefore let us re<g ref="char:EOLhyphen"/>member, It's thy part and mine, to believe, that notwithſtanding the <hi>Retrograde motions, both of per<g ref="char:EOLhyphen"/>ſons and Things,</hi> as we ſuppoſe, yet certainly, the <hi>Main Deſigne</hi> is carried on with an <hi>High hand;</hi> but, in paths ſo ſecret, that the moſt ſharp-ſighted Po<g ref="char:EOLhyphen"/>liticians
+<pb facs="tcp:114658:5"/>in the Kingdom of the Beaſt, cannot well tell how and where to obviate or countermine.</p>
+            <p>And, which is the <hi>moſt confounding Conſideration of all the reſt,</hi> ſuch is the nature of this <hi>great Contri<g ref="char:EOLhyphen"/>vance,</hi> (which you through mercy are privie to) that if there be at any time a Diſcovery made, of its <hi>mighty Eruptions,</hi> as now and then there is; yet, the Souldiers weapons, with the Counſellors and States-mens wits in conjunction, dare not ſudden<g ref="char:EOLhyphen"/>ly grapple with it: but if they, at any juncture of time, are found ſo hardy, as to make this bold adventure, it's with utmoſt hazard of being ground to powder.</p>
+            <p>As for me, (a reproached Outcaſt, an exile Ca<g ref="char:EOLhyphen"/>ptive) it is upon my heart to deſire Two Things of you my brethren and companions in tribulation, and in the Kingdom and Patience of Jeſus Chriſt.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <note place="margin">Pour out <hi>prayer, and then</hi> lift up <hi>prayer for the priſoner.</hi> Eph. 6.18 Jude 20. verſe</note>Oh! let there be a Continuation of prayers and requeſts on my behalf, in the Spirit, I ſay, in the holy Spirit: for certainly, the Lord hath heard your ſupplications for me, as I ſhall, I hope, de<g ref="char:EOLhyphen"/>monſtrate in due ſeaſon. Oh pray! and pray again, <hi>ye cloſe followers of the Lamb,</hi> That, if this Cloſe priſoner be delivered up again to the Councils for Chriſts Name ſake,
+<note place="margin">Mat. 10.17.</note> and his Kingdoms ſake, he may be made Mighty in the Scriptures,
+<note place="margin">Acts 18.24.</note> and elo<g ref="char:EOLhyphen"/>quent with that eloquence and elocution onely, which the Spirit of Chriſt was wont to adminiſter to the ſuffering Saints in all ages. And, That I may be of a very high, and of a mighty ſpirit for our dear Lord Jeſus; yea, of a lofty and a daring ſpirit, according to the glorious Miniſtration of the New Teſtament, and not otherwiſe in the leaſt:
+<pb facs="tcp:114658:5"/>which yet will never be, unleſs, He be dearer to me then my life, whom my ſoul loves, and unleſs I am kept under the <hi>constraining power of divine love.</hi>
+               <note place="margin">2 Cor. 5.14.</note>
+            </p>
+            <p>Oh Brethren! this <hi>Divine love</hi> will make bitter Things ſweet, and turn a ſtrait Priſon into a ſtate<g ref="char:EOLhyphen"/>ly Palace.</p>
+            <p>Do I ſay, Will do theſe things? yea, it hath performed greater works then I can poſſibly, after much meditation, compaſs to expreſs. Where<g ref="char:EOLhyphen"/>fore, I intreat you to remember my bonds, my ſtrait bonds, as you do; and I am perſwaded, your brotherly love herein will turn to good account for each of you alſo, when with diligent obſervation you ponder what improvements you have made in the induſtrious proſecutions of ſo good a trade.</p>
+            <p>And let men beware, how they impute it to proud preſumption in me, thus to hope,
+<note place="margin">Luke 21.28.</note> to look up, and to lift up my head with ſuch boldneſs in this Cauſe, even before the faces of the Higheſt and moſt Majeſtical Potentates in the World, if call'd before them: for hath not my God asked me many times, Wilt thou in ſuch a Cauſe as this (though moſt perfidiouſly forſaken by very many) <hi>be afraid of a man that ſhall die, and of the ſon of man that ſhall be made as graſs?</hi>
+            </p>
+            <p>Did not <hi>Stephen,</hi>
+               <note place="margin">Acts 7.</note> that renowned Deacon of the Church of Chriſt, carry it ſweetly, and yet ſtout<g ref="char:EOLhyphen"/>ly for his Lord, when he was brought before <hi>the High Prieſt and the Council? His Highneſs</hi> did not affright him in the leaſt; <hi>Stephen</hi> was protected and incouraged by One who was infinitely higher then He and all the Lords of the Council: before I had taſted of <hi>Stephen</hi>'s Cordial, I often wondred
+<pb facs="tcp:114658:6"/>how he did dare to ſpeak at ſo high a rate, before and unto the High-Prieſt, as you read <hi>Act.</hi> 7.51, 52. <hi>Ye ſtiff-necked and uncircumciſed in heart and ears, ye do alwayes reſiſt the holy Ghoſt; as your fathers did, ſo do ye. Which of the Prophets have not your fa<g ref="char:EOLhyphen"/>thers perſecuted? and they have ſlain them, which ſhewed before of the coming of the Just One, of whom ye have been now the betrayers and murtherers,</hi> &amp;c.</p>
+            <p>Again, was not <hi>Luther,</hi> in the preſence of <hi>Charles</hi> the fifth, and the many illuſtrious Princes of <hi>Ger<g ref="char:EOLhyphen"/>many, inab<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by the moſt High,</hi> to bear up with in<g ref="char:EOLhyphen"/>vincible courage, ſo that they could not prevail to terrifie or affright him from his Faith and Do<g ref="char:EOLhyphen"/>ctrine which he had taught the people from the holy Oracles? and then, it's eaſie to conjecture how improbable it was, that all the Monks and Friers, all the Prelates and Pariſh Prieſts ſhould afterward be able to reſiſt the Wiſdom and the Spirit by which he ſp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke.</p>
+            <p>Oh! how ſweet hath that word been made to my ſoul? 1 <hi>Iohn</hi> 4 <hi>Ye are of God, little children, and have overcome Them, becauſe, Greater is He that is in you, then he that is in the world.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <note place="margin">Offer up praiſe for the priſoner.</note>I beſeech you alſo let there be m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>intained a con<g ref="char:EOLhyphen"/>ſtant conjunction in praiſing the Name of our God and Father. Le<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us agree to meet every day, many times in the day, for the performing this <hi>Ce<g ref="char:EOLhyphen"/>lestial, this Angelical ſervice.</hi>
+            </p>
+            <p>O!
+<note place="margin">Pſal. 34.3.</note> magnifie the Lord with me, and let us exalt his Name together in the Spirit <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and though our outward man be not capable during my reſtraint of local fellowſhip in this ſpiritual <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acrifice of praiſe, yet it will refreſh me much, to recount
+<pb facs="tcp:114658:6"/>the mercies, which are our proper portion and in<g ref="char:EOLhyphen"/>heritance, in diſtinction from the world.</p>
+            <p n="1">1. <hi>Bleſſed be the God and Father of our Lord Jeſus Christ, who hath bleſſed us with all ſpiritual bleſsings in heavenly things, in Chriſt:</hi> as,</p>
+            <p>That he hath choſen us in him, and that b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the foundation of the world, <hi>&amp;c.</hi>
+            </p>
+            <p>That he hath predeſtinated us unto the adoption of children by Jeſus Chriſt to himſelf, <hi>&amp;c.</hi>
+            </p>
+            <p>That he hath made us accepted in the Beloved.</p>
+            <p>That we have redemption through the Beloved, and this in his blood; which redemption is the for<g ref="char:EOLhyphen"/>giveneſs of ſins, <hi>&amp;c.</hi>
+            </p>
+            <p>That he hath abounded in the riches of his grace towards us, and this in all wiſdom and prudence.</p>
+            <p>That he hath made known to us the myſtery of his will.</p>
+            <p>That in Chriſt we have obtained an inheritance, <hi>&amp;c.</hi> and ſuch an inheritance.</p>
+            <p>That after we believed, we were ſealed with that holy Spirit of promiſe.</p>
+            <p n="2">2. But beſide thoſe bleſſings and other glorious priviledges, which I partake of with all Saints, the Lord hath enriched me with many precious Jewels in this preſent condition, which I deſire may be ſo uſed by me, as to adorn the Goſpel, and to improve thoſe new talents which are vouch<g ref="char:EOLhyphen"/>ſafed to me, in this Houſe of Bondage, from day to day.</p>
+            <p>The mercy of contentation in this cloſe impri<g ref="char:EOLhyphen"/>ſonment,
+<note place="margin">Phil. 4.11.</note> I value at a very high rate before the Lord, in mine acknowledgements of his loving kindneſs toward me.</p>
+            <pb facs="tcp:114658:7"/>
+            <p>The liberty and cheerfulneſs of my Spirit: though the fleſh be weak, I am able to ſay, with great joy,
+<note place="margin">Heb. 13.5.</note> through rich grace, That the Lord hath not left me nor forſaken me, but hath given me Liberty in Bonds, and Inlargement in Priſon. I can tell you in the power of an holy Triumph, Al<g ref="char:EOLhyphen"/>though the Souldiers have attach'd my body, and keep my outſide in chains, though they have bar<g ref="char:EOLhyphen"/>ricado'd the way whereby the Saints were wont at firſt to come to viſit me, for the mutual comfort both of them and me; yet bleſſed be my God and Father, my ſpirit is out of their reach, and the new and living way into the Holieſt is kept open,
+<note place="margin">Heb. 10.20.</note> and by the blood of Jeſus I have boldneſs to enter in<g ref="char:EOLhyphen"/>to <hi>that within the veil.</hi>
+               <note place="margin">Heb. 6.19.</note> I cannot expreſs the com<g ref="char:EOLhyphen"/>fort of the viſitations of the Father and the Son, who according to Chriſt's engagement, <hi>Ioh.</hi> 14.23. <hi>Do graciouſly, gloriouſly come unto me, and make their a<g ref="char:EOLhyphen"/>bode with me, who am leſs then the leaſt of all theſe mer<g ref="char:EOLhyphen"/>cies.</hi>
+            </p>
+            <p>What ſhall I ſay? I have a longing deſire, (but it is not an inordinate luſt after outward liberty) to come and declare what God hath done for my ſoul, and to teach and preach Jeſus Chriſt publick<g ref="char:EOLhyphen"/>ly and from houſe to houſe.
+<note place="margin">Acts 5. laſt.</note> Let us therefore in the Name of the Lord, joyne our forces, and ſtrive to<g ref="char:EOLhyphen"/>gether in prayer, that when I come, I may come in the <hi>fulneſs of the bleſsing of the Goſpel.</hi>
+               <note place="margin">Rom. 15.29, 32.</note>
+            </p>
+            <p>That I may come unto you with joy by the will of God, and may with you be refreſhed, even with you, who through love in the Spirit have endea<g ref="char:EOLhyphen"/>voured to let looſe and break in ſunder thoſe bonds wherewith I have been tied ſo many months. And
+<pb facs="tcp:114658:7"/>I am perſwaded, (for I will not diſſemble,) that this ſhutting and tying me up, will render me, by the power of God with me, more fierce, more fell and furious againſt the Kingdom of the Beaſt, then I was before; but it's probable, <hi>The Lord by his Spirit hath taught my hands to war, and my fingers to fight the battels of the Lamb, more skilfully then I did before.</hi>
+            </p>
+            <p>I bleſs the Lord alſo, and let his people ſay, <hi>A<g ref="char:EOLhyphen"/>men,</hi>
+               <note place="margin">Rom. 12.2.</note> that I am ſtill a Non-conformiſt to the world, and the world-like-Church; but am through the grace of God made more conformable to the image of his Son:
+<note place="margin">Rom. 8.29.</note> and when Chriſt who is my life ſhall appear, I alſo together with others ſhall appear with him in glory.
+<note place="margin">Coloſ. 3.4.</note>
+            </p>
+            <p>It often comes into my minde, how <hi>David</hi> com<g ref="char:EOLhyphen"/>plains, <hi>Reproach hath broken mine heart.</hi> Indeed,
+<note place="margin">Pſal. 69.20.</note> to be ſtigmatiz'd, and ſet as upon a Theatre for a ſpecta<g ref="char:EOLhyphen"/>cle,
+<note place="margin">
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Gal. 6.17.</p>
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, 1 Cor. 4.9.</p>
+               </note> and ſet as upon a Theatre for a ſpecta<g ref="char:EOLhyphen"/>cle, and to be gazed at, is a very unwelcome condi<g ref="char:EOLhyphen"/>tion to the nature of man: but herein I am con<g ref="char:EOLhyphen"/>formed to my Head alſo, <hi>Heb.</hi> 6.6.</p>
+            <p>It was reported during my firſt cloſe impriſon<g ref="char:EOLhyphen"/>ment, that I had forſaken (Chriſt) the Head, and was under the miniſtration of evil Angles, That I had a ſpirit of deluſion, <hi>&amp;c.</hi> Sometimes by ſome men, I am a fool; by others, that I am a madman: ſince my cloſe confinement here, I am againſt Ma<g ref="char:EOLhyphen"/>giſtracy as Magiſtracy; poor fellow, I cannot de<g ref="char:EOLhyphen"/>fine what faith is. But bleſſed, for ever bleſſed be the Name of the Lord, I can ſay, in <hi>Paul</hi>'s ſpirit, <hi>None of theſe things move me, neither count I my life dear unto my ſelf, ſo that I might finiſh my courſe with joy, and the ministery which I have received of the Lord Jeſus,
+<pb facs="tcp:114658:8"/>to testifie the Goſpel of the grace of God.</hi>
+            </p>
+            <p>By the enſuing Letters, to that little Flock, which I am over in the Lord, my ſpirit and my deſigne may be diſcerned: they are the Index of my very heart. When Epiſtles are the true and ge<g ref="char:EOLhyphen"/>nuine iſſue of the ſoul, (as theſe are of mine) there is no difficulty in making an eſtimate of the Au<g ref="char:EOLhyphen"/>thor of them, eſpecially, when there's no oppor<g ref="char:EOLhyphen"/>tunity for the poliſhing and artificial adorning of them, as in the writing of theſe there neither was, nor well could be.</p>
+            <p>The firſt was written from neer the Council-chamber-door, in the midſt of company, and in haſt, becauſe I expected every moment to be fetcht in; and I was willing <hi>to ſalute the Church from my bonds,</hi> they being to meet in the afternoon of that day.</p>
+            <p>The next, and all the others, were according to the conſtant frame of my ſpirit at other times, no artifice, no premeditation or ſtudy. I had no thought of this kinde of publication of them. <hi>Soundneſs in the faith, the power of godlineſs, and the promoting of the preſent truth and work of Chriſt,</hi> are thoſe things which have lain next my heart for many yeers; and if I ſpeak or write to the Saints, thoſe things will certainly flow forth: for that ſaying of Chriſt is truth, <hi>Out of the abundance of the heart, the mouth ſpeaketh,</hi> (and ſo the pen wri<g ref="char:EOLhyphen"/>teth, if he be an honeſt-minded-man that guides it.)</p>
+            <p>I ſhould not have thus far appeared, but for the manifeſtation of the truth: and what error ſo<g ref="char:EOLhyphen"/>ever any one eſpies, in thoſe Letters, I am ready
+<pb facs="tcp:114658:8"/>to retract and correct, upon any the leaſt advertiſe<g ref="char:EOLhyphen"/>ment with light from the Oracles of God;
+<note place="margin">2 Tim. 3.16, 17 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>for the Scripture being divinely inſpired, is profitable for correction, that the man of God may be perfect, per<g ref="char:EOLhyphen"/>fected to every good work.</hi>
+            </p>
+            <p>I have great need of patience, that after I have done and ſuffered the will of God, I may inherit the promiſe. Moreover, to conclude, I muſt not caſt away my confidence; for that alſo hath great recompence of reward.</p>
+            <p>We poor oppreſſed priſoners, are fools, for Chriſt's ſake, but ye are wiſe in Chriſt; we are weak, but ye are ſtrong; ye are honorable, but we are deſpiſed. This word I write to the diſſatisfied Saints, who are ſo apt to cenſure, and <hi>to ſpeak evil of the things they know not;</hi> but yet I write not theſe laſt words to ſhame you; but becauſe I in my ve<g ref="char:EOLhyphen"/>ry ſoul deſire, <hi>you may not ſtumble and fall, and ſhew your ſhame, and break your bones.</hi> Therefore again I warn you, not to believe reports. When I am brought before Councils of State, or Courts of Juſtice, and there be found any evil in me why I ſhould be thus dealt with, (even worſe then blaſ<g ref="char:EOLhyphen"/>phemers, and felons, and other malefactors, are dealt with in Priſon, and that, in ſeveral reſpects) then it will be time enough for you to cenſure, and judge, and condemn: but to this day, after ſeven moneths impriſonment, I have not been brought to the place of hearing, neither accuſets not witneſſes have paſſed upon me. <hi>My heart doth not condemn me, nor the Lord, who is greater then my heart, and knoweth all thin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s; I have boldneſs before him, and ſhould I fear what man can do unto me?</hi>
+            </p>
+            <pb facs="tcp:114658:9"/>
+            <p>Therefore judge nothing before time, until the Lord come, who both will bring to light the hid<g ref="char:EOLhyphen"/>den things of darkneſs, and will make manifeſt the counſel of all mens hearts; <hi>and his judgement will be according to truth,</hi> Amen. <hi>Come Lord Ieſus, come quickly.</hi>
+            </p>
+            <closer>
+               <dateline>From my watch-Tower in this houſe of bondage, called <hi>Windſor</hi> Caſtle, <date>this <hi>28</hi> of the <hi>6</hi> Moneth, <hi>1654.</hi>
+                  </date>
+               </dateline>
+               <signed>Your ſervant for Chriſt's ſake, willing to do or to ſuffer according to the will of God, <hi>Christopher Feake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:114658:9"/>
+            <head>To all that are ſanctified in Chriſt Jeſus, cal<g ref="char:EOLhyphen"/>led to be Saints, who have fellowſhip with the Father and his ſon Jeſus Chriſt, and with one another.</head>
+            <opener>
+               <salute>Precious Souls!</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving taſted, in ſome meaſure, the ſweetneſs of communion with God, and alſo of <hi>fellowſhip one with another;</hi> we cannot but commend the ſame to all Saints, as a thing worthy to be deſired, coveted, embraced, and promoted by them to the utmoſt in their generation. And when other ways of <hi>Communion one with another</hi> are denied them, then this of <hi>writing with Ink and Paper</hi> each to other, hath been ever found of ſingular uſe and comfort to them, and been practiſed by the Saints in all ages, even from the Apoſtles times down to theſe of ours wherein we now live; whereby they do ſtill encourage, com<g ref="char:EOLhyphen"/>fort, counſel, exhort, ſtir up, quicken, and provoke one another to love, and to good works; and to a holy, humble, heavenly, ſincere, upright, and unblameable converſation, in the midſt of a crooked, perverſe, corrupt, deceitful, and adulterous generation. And we amongst others having ſound no ſmall refreſhment by theſe Letters, which were occaſionally written unto us by our dear Paſtor, (when he was through the malice and inſtigation of Satan, the old uccu<g ref="char:EOLhyphen"/>ſor of the brethren, rent and torn from his Congregation, and from his other dear relations; we know not for what cauſe, unleſs it were for his faithfulneſs, cordialneſs, and conſtancie to the Lord Jeſus and his Saints, and unto their Cauſe and Interest; or for bearing his teſtimony againſt the ſins and evils of Apoſtates, Back<g ref="char:EOLhyphen"/>ſliders,
+<pb facs="tcp:114658:10"/>and Treacherous dealers, that ſo ignobly deſerted their Co<g ref="char:EOLhyphen"/>lours, and are revolted and gone; or for witneſſing to the Truths of the kingdom and coming of the Lord Jeſus, the king of Saints, and the king of Nations, to rule and to raign in righteouſneſs, and in judgement in the earth, according as he hath ſpoken thereof, by the mouth of his holy Prophets which have been ſince the world began:) we have often earneſtly deſired, for our own farther com<g ref="char:EOLhyphen"/>fort and edifying, and for the like benefit and refreſhing to other Saints, that theſe his Letters to us (with many others which he hath written) might be made publike; to the end, that as the Lord hath and doth comfort us in all our tribulations; ſo we might hereby be a means (under him) of comforting others with the ſame comfort<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wherewith we our ſelves are comforted of God; and that thoſe who have the gift of diſcerning of ſpirits in any meaſure, may judge whether theſe things that are written, (being no other in effect, then ſuch as from time to time have been ſpoken and preached to us, by this faithful (though deſpiſed) ſervant of Chriſt) be the breathings of the holy Spirit of God, or the inſpirations and ſuggeſtions of the devil, and of evil angels, as unreaſonable men have calumniated and aſperſed him. <hi>Say we not well, that thou art a Samaritane, and haſt a devil?</hi> ſaid they of Chriſt. <hi>Now if they call the Maſter of the houſe Beelzebub, how much more ſhall they call them of his houſhold?</hi> Yet, <hi>ſaith Christ,</hi> Be not deceived; <hi>God is not mocked:</hi> the <hi>Blaſphemy</hi> and the <hi>words</hi> ſpoken <hi>againſt the holy Spirit,</hi> they <hi>ſhall never be forgiven unto men, neither in this world, nor in that which is to come.</hi> However, ſaith he to his diſciples, <hi>Beware of men: for they will deliver you up to the Councils, and ye ſhall be brought before governours and kings for my ſake, FOR A TESTIMONY AGAINST THEM. But when they ſhall de<g ref="char:EOLhyphen"/>liver you up, take no thought how or what ye ſhall ſpeak: for it ſhall be given you in the ſame hour what ye ſhall ſpeak. For IT IS NOT YE THAT SPEAK, but THE SPIRIT OF YOUR FATHER WHICH SPEAKETH IN YOU:</hi> Matth. <hi>10.20.</hi> &amp;c. It is <hi>the Spirit of your Father</hi> (ſaith Chriſſt) <hi>which ſpeaketh in you.</hi> For the bleſſed <hi>return</hi> of which Spirit of the Father from on high, and for the glorious ef<g ref="char:EOLhyphen"/>fuſion
+<pb facs="tcp:114658:12"/> of it upon all fleſh, let the ſons and daughters, and ſervants and handmaids of the Lord (to whom it is promiſed) ever pray, and they ſhall finde every day more and more, that it will break forth mightily, to the confounding of that ſpirit of the World, that is riſen up in oppoſition and contradiction to it: for this ſpirit muſt fall, but the Spirit of Chriſt muſt ariſe; and the Prieſts and Soul<g ref="char:EOLhyphen"/>diers can no more ſuppreſs it, or keep it under, then they could the body of Jeſus from its reſurrection. In the mean time, let it ſuf<g ref="char:EOLhyphen"/>fice unto us, that Chriſt <hi>knows the blaſphemy of thoſe, who ſay they are Jews, and are not;</hi> Chriſtians, and are not; for Chriſt, and are not; for the Miniſters of Chriſt, and are not; for the Spirit of Chriſt, and are not; <hi>but are the Synagogue of Sa<g ref="char:EOLhyphen"/>tan,</hi> Rev. <hi>2.9.</hi> and are of their father the devil, and <hi>the luſts of their father they will do,</hi> who was <hi>a murderer from the be<g ref="char:EOLhyphen"/>ginning, and ABODE NOT IN THE TRUTH;</hi> who is alſo <hi>a lyer,</hi> and <hi>the father of lyes,</hi> Joh. <hi>8.44.</hi>
+            </p>
+            <closer>
+               <signed>Signed by appointment and in behalf of divers others of the Congregation, who have ſubſcribed the Original copie.
+<list>
+                     <item>
+                        <hi>Thomas Allen.</hi>
+                     </item>
+                     <item>
+                        <hi>John Luxford.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Davie.</hi>
+                     </item>
+                     <item>
+                        <hi>Stephen Rookeby.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>TAke notice, that the two laſt Letters to the Church are placed out of order, becauſe they could not be obtained in due time; and therefore are to be read as the two firſt Letters from <hi>Windſor,</hi> though printed laſt.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:114658:10"/>
+            <head>A ſhort WORD To the faithful REMNANT, who are of one SPIRIT in the preſent Truth, and Cauſe of Chriſt.</head>
+            <p>
+               <hi>I</hi> Alwayes, ſince I underſtood the nature of the controverſie betwixt Antichriſt and the Lord Jeſus, in the light of his own Spirit, found it a bleſſed imployment to be inquiring and hearkning, where <hi>the ſigne of Gods preſence was,</hi> and, upon which of the Congregations or aſſemblies, I could finde the most glorious demonstrations of the power of godlineſs, and where the Lord was pitching his Tents, and revealing himſelf to his Beloved Ones. This is alſo my work, at this day, to con<g ref="char:EOLhyphen"/>template and conſider what posture the Saints are now in, and to watch that I may know, where the glory of the Lord is reveal<g ref="char:EOLhyphen"/>ed, and where or from whence it will break forth, at the ap<g ref="char:EOLhyphen"/>proaching revolution.</p>
+            <p>In time paſt, before the New Model was in being, or extant in the world, it was in the ſcattered Saints, yet gathered toge<g ref="char:EOLhyphen"/>ther in ſeveral meetings, (kept in the City, Army and Countries) to finde out a right way from <hi>Babylon</hi> to <hi>Sion.</hi> You remem<g ref="char:EOLhyphen"/>ber what diſtreſs the Lords people were in at that time, when that Tyrant had the North and Weſt at his devotion, when <hi>Eſſex</hi> his Army was beaten and degenerate, when we were betrayed and forſaken by the old Souldiers of Fortune, when the King and his Princes were victorious and rampant, after the ſacking of <hi>Leiceſter.</hi>
+            </p>
+            <pb facs="tcp:114658:11"/>
+            <p>And when the new Model was deſpiſed in almoſt all mens eyes,
+<note place="margin">It was com<g ref="char:EOLhyphen"/>monly called in reproach and ſcorn, both by the King's and <hi>Eſ<g ref="char:EOLhyphen"/>ſex</hi> his ſouldi<g ref="char:EOLhyphen"/>ers, <hi>The New Model.</hi>
+               </note> ſave a ſmall remnant of praying and believing Saints, where was the preſence of God then? who could declare before whom <hi>the pillar of fire did ſhew it ſelf, as the token of Jehovah's preſence?</hi>
+            </p>
+            <p>It muſt not be forgotten, but remembred with renewed thank<g ref="char:EOLhyphen"/>fulneſs even at this day, That it did break forth and manifeſt it ſelf, moſt gloriouſly, <hi>from Nazeby-field,</hi> even every day more and more.</p>
+            <p>Then the Lord began to uſe the new Army, as <hi>One of the weak, fooliſh, deſpiſed Things of the world.</hi>
+            </p>
+            <p>Then the Council of War uſed to aske counſel of God, and God was with them, wonderfully to direct them, to bleſs them with victorious ſucceſs abundantly.</p>
+            <p>Then the Head-quarters were famous and <hi>amiable, even as the Tabernacles of the Lord of Hoſts:</hi> Then the Spirit of Glory and of God rested upon them, and marched before them, everywhere; yea, it was as a <hi>wall of fire round about them, and the glory in the midſt of them,</hi> Zech. <hi>2.5.</hi>
+            </p>
+            <p>And ſo it continued from year to yeer, to the astoniſhment of the wicked, and to the triumphant rejoycing of the righteous.</p>
+            <p>At length, after ſome <hi>dangerous Temptations</hi> were over<g ref="char:EOLhyphen"/>come, (as the Armies trinkling and tampering with and for the King, Queen, and their Iſſue, which afterward in their ſtraits, they bewailed in <hi>Windſor</hi> Caſtle) the preſence and Spirit of the Lord ingaged them alſo to execute judgement and juſtice upon the grand murtherer and perſecutor of the Saints, (not to mention other ſtrange and great enterprizes) <hi>ſo, as that the whore of Babylon and the Kings of the earth had cauſe to be exceedingly afraid.</hi>
+            </p>
+            <p>
+               <hi>Ireland</hi> was reduced alſo with a high hand, eſpecially at the beginning; and the Lord was gloriouſly preſent ſtill with the Ge<g ref="char:EOLhyphen"/>neral and his Army: onely ſome intelligent ſelf-denying ſouls did diſcern plainly, that divers Officers began betimes, even too too early, to minde the prey, even before the work was done: and it coſt many of them very dear.</p>
+            <p>Let us remember alſo the expedition into <hi>Scotland,</hi> and the
+<pb facs="tcp:114658:11"/>high Appeal made by our Presbyterian-Brethren, and the Ar<g ref="char:EOLhyphen"/>my, with their friends: nights and dayes were ſpent in earnest prayer on both ſides: the Lord appeared in terrible Majeſty at <hi>Dunbar.</hi>
+            </p>
+            <p>About that time, <hi>the Cauſe of Chriſt, the Intereſt of Chriſt, the work of God, the downfal of Babylon, and ſuch-like language, ſounded from the Head-Quarters, from the great Officers of the Army.</hi> My ſoul was raviſhed to ſee and obſerve the ſpirit of prayer at <hi>White-Hall</hi> in thoſe dayes among many of the chief Commanders, as if they had loved none but Chriſt, as if they cared for none but Chriſt and his Intereſt, as if they would never have endured any King but the Lord Jeſus, or any Laws but his, or any Ministers but his. We (who through grace were plain-hearted) thought there were not ſuch another people upon the face of the earth, <hi>(for love to Chriſt, to the glory of Chriſt, that he might be magnified and exalted)</hi> as were the conducting and commanding part of the Army.</p>
+            <p>But Oh! <hi>Oh my Bowels, my Bowels!</hi> The gradual de<g ref="char:EOLhyphen"/>clenſion and defection ſince <hi>Worceſter,</hi> with what words ſhall I bewail it? how have all the things of Chriſt been neglected? how hath that most noble and glorious Cauſe of the Lord Jeſus been forſaken, by thoſe, who ought by manifold obligations, to have promoted it to the utmoſt? there was a price put into their hands, and power was in their hands. Oh this ſpirit of <hi>Baruch to ſeek great things for our ſelves, when Jehovah ſaith, Seek them not. Behold, that which is built, God will pull down; and that which is planted, He will pluck up.</hi> The Lord Jeſus is making great hast, to break in pieces all theſe Kingdoms both new and old; and yet men are buſie in ſeeking their own things, and not the things of Jeſus Chriſt. I cannot but ſpeak, I muſt open my heart to ſome, who love the Lord Jeſus in ſincerity: my liſe is not dear to me in this Cauſe. If the Powers of the world and Rulers of the people have a minde to take away my Life, as they have done my Liberty, behold, here it is in a readineſs: If the Lord give the word, <hi>I am</hi> willing through grace <hi>not onely to be bound, but to die for the Name of the Lord Jeſus, and for the Goſpel of the Kingdom.</hi> I am free to give di<g ref="char:EOLhyphen"/>rections
+<pb facs="tcp:114658:12"/>to my worst enemies, were they may make inquiry after all my wayes from my childhood to this day; and if they finde I have committed any thing worthy of death, or of bonds, let them take their advantage: but to keep me a Priſoner ſeven or eight moneths, and not bring me to the place of hearing, that I may know what my crime is, and who are my accuſers, and the witneſſes; this is not fair dealing. I am loth to aggravate things; but the manner of the Romans was more according to justice, expreſſed in <hi>Acts 25.</hi>
+            </p>
+            <p>Brethren, I deſire to keep in memory the Cauſe of our dear Lord, ſo do you, and know them who are of this Spirit through the Nation: provoke one the other to wreſtle with God, to cry unto our Father. If his children cry unto him, he will not, he cannot long forbear; he will return, and have compaſſion on the Remnant of his Heritage: for mercy pleaſeth him.</p>
+            <p>The Grace of the Lord Jeſus Chriſt be with all your Spirits, in the glorious ministration of Grace, Mercy, and Peace con<g ref="char:EOLhyphen"/>tinually, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>From my houſe of bondage, <date>this 31 of the 6 month, 1654.</date>
+               </dateline>
+               <signed>Yours for the Lord's ſake, to do, or to ſuffer on your behalf, <hi>Chriſtopher Feake.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114658:13"/>
+            <pb n="1" facs="tcp:114658:13"/>
+            <head>For the well-beloved CHURCH of Chriſt, meeting in Colemanſtreet, Swan Alley.</head>
+            <opener>
+               <salute>My dearly beloved Brethren in the Lord, my Joy, and my Crown,</salute>
+            </opener>
+            <p>INdeed and in truth, <hi>The high and glorious myſteries of the New Teſtament,</hi> and the <hi>moſt ſweet miniſtrations thereof,</hi> are little underſtood by any of the Saints in this day: Therefore we are ſo exceeding low in our Spirits, in our Ex<g ref="char:EOLhyphen"/>periences, in our Affections and Reſolutions for our dear Lord Jeſus. But in the appointed ſeaſon, the return of our King from a far Country, will amaze all thoſe that would not have him to reign over them. This ſalutation now is ſent unto you, to ſignifie to you that you are in my heart (through rich grace) to live and to die with you, in this moſt noble and moſt honourable Cauſe of the Lord Jeſus Chriſt, both yours and mine. Bleſſed be the Father of our Lord Jeſus, that ever he revealed his Son in ſuch a poor, ſilly, inconſiderable worm as I am. Oh the riches of his grace! to intruſt me with the preaching of the glorious Goſpel of the bleſſed God. I would not exchange mine imployment, ſo ſweet, ſo comforta<g ref="char:EOLhyphen"/>ble, for all the riches, glory, authority and pompous excel<g ref="char:EOLhyphen"/>lencies, which the fourth kingdom can tempt the ſons of the earth withal.</p>
+            <p>God is gloriouſly gracious in theſe diſpenſations of ſuffer<g ref="char:EOLhyphen"/>ings: What a ſweet night have I had! Why ſhould the Lord condeſcend to refreſh the Spirit of a poor, ſinful, very ſinful creature, in ſo tranſcendent a manner? Be of good cheer, wait on the Lord, believe more, pray more, praiſe more, do more, love more, abound in every good work more and
+<pb n="2" facs="tcp:114658:14"/>more, <hi>The God of Peace, of Grace, of Truth</hi> ſhall be with you. Undoubtedly, as I lately told you, the Spirit of the Lord is riſing: he cannot be kept down by the Princes, Powers, Soul<g ref="char:EOLhyphen"/>diers, Politicians of the Earth. Oh what confuſions in Counſels! What concuſſions in Kingdomes and Common<g ref="char:EOLhyphen"/>wealths! what conteſtations among the profeſſors in this City, are at hand! <hi>Great is Goſpel-truth, and ſhall, and muſt pre<g ref="char:EOLhyphen"/>vail.</hi> How can we forbear triumphing in the expectations of the downfal of myſtical-<hi>Babylon?</hi> If the Lord crucifie us unto the world, and the world unto us, (as I know he will) and pour out his Spirit richly, What may we not attempt for the intereſt of our dear Lord? Remember, <hi>The Lord is our Judge, the Lord is our Law-giver,</hi> (in the Hebrew, <hi>Statute<g ref="char:EOLhyphen"/>maker) the Lord is our King, He will ſave us.</hi>
+            </p>
+            <p>Your eminent growth in Grace, and in the Knowledge of our Lord and Saviour Jeſus Chriſt, is that rich bleſſing which living and dying I bequeath unto you, and requeſt for you. A riſe and ſhine, O ye precious ſons and daughters of <hi>Sion,</hi> in the midſt of this dark world, as the ſtars in the firmament, each of you in the families, neighbourhood, and companies, where the Lord hath or ſhall diſpoſe of you.</p>
+            <p>Believe it, my dear hearts, the Lord is coming: keep cloſe together, love as brethren; above all, be exceeding careful to maintain on your part, holy, heavenly, ſpiritual, intimate communion with the Father, with the Lord Jeſus, and with the Saints of the moſt High: the fruits whereof will be joy in the Holy Ghoſt unſpeakeable, and moſt full of glory. <hi>A<g ref="char:EOLhyphen"/>mer,</hi> and <hi>Amen. Hallelujah.</hi>
+            </p>
+            <closer>
+               <dateline>Letter the firſt from <hi>White-Hal,</hi> written while I was waiting on the Councel before I was called in.</dateline>
+               <signed>Yours in the moſt ſweet fellowſhip of the Goſpel, and at liberty whilſt in bonds, (for they are eaſie ones hitherto) CHRISTOPHER FEAKE.</signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>My Fellow-priſoner for Chriſt, Mr. <hi>Powel,</hi> ſaluteth the Con<g ref="char:EOLhyphen"/>gregation with dear affection.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:114658:14"/>
+            <head>For the well-beloved CHURCH of Chriſt meeting in Colemanſtreet Swan-Ally.</head>
+            <opener>
+               <salute>My very dear hearts, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he ſons and daughters of deſpiſed <hi>Sion,</hi>
+               </salute>
+            </opener>
+            <p>THe moſt ſpiritual bleſſings in heavenly things in Chriſt, be your portion; yea, the Lord Jeſus him<g ref="char:EOLhyphen"/>ſelf, with all his fulneſs and glory, be ſtill the lot of your inheritance: and when the ſtreams are at any time cut off, the Lord ſhew you the Fountain, which is Himſelf, God bleſſed for ever. Although my heavenly Father hath given me a Writ of eaſe, for the preſent; yet I am with you in Spirit, and ſignifie to you my love in the Lord: my time is not yet come, &amp; it may be it muſt be the fruit of your fervent pray<g ref="char:EOLhyphen"/>ers. I am cleerly convinced from a power inviſible and invin<g ref="char:EOLhyphen"/>cible, that this impriſonment is not unto death, <hi>But for the glory of God, that the Son of God might be glorified thereby.</hi> See <hi>John</hi> 11.4. I allude to that ſaying of Chriſt concerning <hi>La<g ref="char:EOLhyphen"/>zarus</hi> his ſickneſs: ſaith Chriſt, <hi>This ſickneſs is not unto death;</hi> and yet afterward Jeſus ſaid plainly, verſ. 14. <hi>Lazarus is dead:</hi> did Chriſt ſpeak untruth before, when he ſaid, <hi>This ſickneſs is not unto death?</hi> No, in no wiſe. So, although this im<g ref="char:EOLhyphen"/>priſonment ſhould be unto death, (which bleſſed be my Lord, my God &amp; my Father, I do nothing fear, in the vulgar ſence, yet in a ſpiritual ſence it is not, but for the glory of God; yea, undoubtedly, if I ſhould be gathered to my Fathers by the Souldiers &amp; the Prieſts means in an unuſual way, I rejoyce in Spirit, in the apprehenſions of faith, which the Lord vouch<g ref="char:EOLhyphen"/>ſafeth to me, that out of my blood ſhall ſpring forth ſuch a no<g ref="char:EOLhyphen"/>table Spirit, as will be the utter ruine of that curſed whore, with all the powers on earth new and old, that take her part, paint her face, and do her work.</p>
+            <p>Wherefore rouze up, my deareſt hearts, in the might of your God, and go on in the Name of your Captain-General,
+<pb n="4" facs="tcp:114658:15"/>and by your ſecret, inward, in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſible weapons, <hi>wound this baſe, upſtart, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rivate intereſt, under the fifth rib.</hi> But in the midſt of all your h<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eal for the ſervice of your dear Lord, forget no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I charge you, and every of you, before him that quickneth all things, and witneſſed a good confeſſion before <hi>Pont<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us Pilate,</hi> that you do principally, conſtantly, zealouſly minde the inward work, the intimate communion which the Saints uſe to have with the Father and the Son, as being their preſent paradiſe on this ſide heaven. Oh for the Lords ſake, e<g ref="char:EOLhyphen"/>very one of you, Parents, Children, Maſters, Servants, Young men, Old Diſciples, Weak, Strong, Rich, Poor, Married, Un<g ref="char:EOLhyphen"/>married; Oh! I ſay, Be holy, be humble, be ſpiritual, live in love, walk in ſweet peace. Bleſſed be God, I have ſuch ſatis<g ref="char:EOLhyphen"/>faction of you generally, that you are a holy people, wholly ſeparate to God: and if there ſhould be <hi>any cloſe hypocrite among you, pray the maske and vizard off, that it may he known who hath not loved the Lord Jeſus Chriſt in ſincerity, but their own luſts ſecretly traded in.</hi>
+            </p>
+            <p>A godly jealouſie over you, cauſeth me thus in true Goſpel-affection to write unto you, watching over you at this diſtance with thoughtfulneſs and carefulneſs in ſome ſmall meaſure night and day, that I might preſent you to Chriſt, and He to his Father, as beautiful and glorious a part of his ſpiritual kingdom, as any other in this generation. Oh! that it might be ſo; Oh! that it might be ſo,</p>
+            <p>The Lord Jeſus Chriſt be with your Spirit, eſpecially in your holy Aſſemblies. Brethren (all of you) pray, pray for me.</p>
+            <closer>
+               <dateline>
+                  <date>This <hi>1</hi> day in the morning, the <hi>5</hi> day of my moſt comfor<g ref="char:EOLhyphen"/>table confinement, <hi>1653.</hi>
+                  </date>
+               </dateline>
+               <signed>An unworthy worm, de<g ref="char:EOLhyphen"/>ſirous to ſerve the Lord Jeſus and all his Saints, <hi>Christoph. Feake.</hi>
+               </signed>
+               <pb n="5" facs="tcp:114658:15"/>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>I and my yoke-fellow ſalute every Saint in the Lord. My Wife, a dear comfort to me, deſires the prayers of the Church particular<g ref="char:EOLhyphen"/>ly for her; and we both deſire you to bleſs the Lord joyntly for his wonderful goodneſs to us: he is verily a God hearing prayer.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>For the well-beloved CHURCH of Chriſt meeting in Colemanſtreet, Swan-Alley.</head>
+            <opener>
+               <salute>My dearly beloved in the Lord,</salute>
+            </opener>
+            <p>WHo in the Lord Jeſus are builded together for an Habitation of God by the Spirit: This is the fourth time I have in much affection written to you, ſaluting you again in the Lord, as a holy people peculi<g ref="char:EOLhyphen"/>ar to Chriſt our Head; in the light and power of whoſe glo<g ref="char:EOLhyphen"/>rious Spirit, you every one walking, ſhall certainly come up to thoſe attainments and enjoyments, which will render you truly honorable in the eyes of your very adverſaries. Bleſſed be the name of our God for ever, who hath tranſlated us from death to life ſome time ſince; who is alſo transforming us from glory to glory, as by the Spirit of the Lord. Brethren, know, That the Meſſengers of the Church, together with the loving Epiſtle which they brought with them, were exceeding wel<g ref="char:EOLhyphen"/>come, and acceptable to the Lords Priſoner, who was and is ſtill filled with comfort from the Father of mercies, and the God of all comfort: yea, I do not know of any one mi<g ref="char:EOLhyphen"/>nute, wherein dejectedneſs of Spirit hath been my portion; yea, on the contrary, a cheerful, lightſome frame and tem<g ref="char:EOLhyphen"/>per is my lot, from my tender Father night and day. My care for you (which is my greateſt exerciſe) ending in faith and joyful confidence, that the Lord is doing good to you, as unto me: and thoſe that are approved, will be made ma<g ref="char:EOLhyphen"/>nifeſt
+<pb n="6" facs="tcp:114658:16"/>in theſe tr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing times and ſeaſons. Wherefore I be<g ref="char:EOLhyphen"/>feech you all again and again, by the mercies of God, by the meekneſs and gentleneſs of Chriſt, that you walk very cir<g ref="char:EOLhyphen"/>cumſpectly in theſe evil daies, that you ſet the Lord alwaies before you, reſolving (in the ſenſe and remembrance of thoſe firſt loves that were mutually between the Lord and each of your ſouls at your firſt converſion and believing, and when you were firſt ſealed (after that you believed) by the holy Spirit of promiſe) out of faithfulneſs and love to Chriſt, to follow the Lamb on Mount <hi>Sion</hi> whitherſoever he goeth, firſt, in paths of holineſs; then upon the Mountains of <hi>Iſrael,</hi> in freſn green Paſtures, where He, I ſay, He leads you; then to Priſon, through Fire, through Water, anywhere, every<g ref="char:EOLhyphen"/>where, the Lord being in the midſt of you, and with you. Ah my dear brethren! the Lord Jeſus being with us, bonds are not bonds, reproach is not reproach, enemies are no e<g ref="char:EOLhyphen"/>nemies, death it ſelf is not death. My heart is inlarged: I could wiſh my ſelf among you, that I might pour out my ſoul before you. The Lord is good, his mercy endureth for ever. The brethren you ſent to me, have reported the preſence of the Lord in the midſt of you, your purpoſe of heart to cleave to the Lord and to one another. My counſel for the preſent is as followeth: though they be the ſame things that I write o<g ref="char:EOLhyphen"/>ver again now as before, yet conſider them; <hi>Paul</hi> did ſo.</p>
+            <p n="1">1. Now that ye are come together in the name of the Lord Jeſus, let every member of the Congregation conſider what they are obliged to; Is it not to continue together with the Church, walking in all the waies and Ordinances of Jeſus Chriſt? Did they not conſent, in the hearing of Angels and men, to do their duties, which are Commands of Chriſt, as well as to receive of the priviledges of the Goſpel? Thoſe that from reſpects of their particular ſpiritual profit, do omit their duty, as in the publick capacity of the members of the body of Chriſt, without the conſent of the whole, upon Scripture-grounds, will finde themſelves in a ſnare ere they are aware.</p>
+            <p n="2">2. Being all together before the Lord, as His peculiar
+<pb n="7" facs="tcp:114658:16"/>people, deſire earneſtly to know of him, whether or no there be not ſome of your number whom he intends to ſet apart as a Teacher in the Congregation, for the carrying on the work of the Lord in the Congregation; and then, if ſo, to beg to know who he is: if not, to intreat him to furniſh you with helps this way, as it were from heaven; that ſo, you may not onely be edified among your ſelves, but be <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eet, like a golden Candleſtick with burning and ſhining lights in it, to give light to the dark world, and ſo ſerve the Lord in your generation upon the beſt account.</p>
+            <p n="3">3. I deſire you to conſider, that the more my coming a<g ref="char:EOLhyphen"/>mong you, is, and ſhall be a fruit of your prayers in faith, the more we ſhall all rejoyce together when we meet. And therefore I deſire you to ſpread my condition before the Lord, that I am ſent hither by an arbitrary power, no ac<g ref="char:EOLhyphen"/>cuſers brought face to face, no witneſſes produced; but in a private Juncto, determined to commit me and Brother <hi>Simpſon</hi> to this Caſtle, <hi>In Order to the preſervation of the peace and ſafety of the Nation:</hi> theſe are the words of the <hi>Mittimus;</hi> no crime laid to our charge; their own fears and jealouſies are the cauſe of this unrighteous dealing with us, to rend and rear us violently from our Congregations; and here not to ſuffer us to preach the Goſpel to the poor people, that they may be ſaved, while they are eating, and drinking, and riſing up to play. Mr. <hi>Jenkins</hi> when he was baniſhed by the old Par<g ref="char:EOLhyphen"/>liament from <hi>London,</hi> had free liberty to preach as often as he would. The Lord beholds all theſe things, and I write not this by way of complaint, the Lord knoweth; for my life is comfortable without intermiſſion; and the Lord hath ſent me hither for ſome glorious end, I am verily per<g ref="char:EOLhyphen"/>ſwaded.</p>
+            <p n="4">4. I intreat you, looking upon each other as the ſons and daughters of the living God, to grow in love, in brotherly love, in love in the Spirit; to abound in love, as the Apoſtle ſpeaks, toward each other, and toward all men, as by the rich grace of God I finde I do towards you: and this you will finde, that loving the Lord Jeſus more dearly, you will
+<pb n="8" facs="tcp:114658:17"/>be the more tenderly affectioned each toward other. This is the diſtin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uiſhing character of the Diſciples of Chriſt: this is the primitive Spirit; and <hi>Philadelphia,</hi> of all the Churches in <hi>Aſia,</hi> (which ſignifieth brotherly love) was not reproved, but incouraged by Jeſus Chriſt: Oh! be you that Churches Siſter.</p>
+            <p n="5">5. Beg, in ſtead of all, the rich, glorious effuſions of the Spirit of Chriſt; that would render you a happy, holy, heaven<g ref="char:EOLhyphen"/>ly people; a ſpiritual, zealous, faithful, fruitful people. I finde, I finde, Brethren, that the excellent Spirit is riſing, re<g ref="char:EOLhyphen"/>turning, revealing it ſelf in the world, though the world cannot, will not receive it. Walk in the Spirit, live in the Spirit, ſpeak in the Spirit, pray in the holy Spirit, rule in the Spirit, come together in the Spirit, continue together in the Spirit, conclude in the Spirit all your meetings: reſerve the Brethren that are fulleſt of the holy Spirit, for the laſt in ex<g ref="char:EOLhyphen"/>erciſes, that you may go home with a ſweet reliſh of the preſence of Chriſt, with warmed refreſhed hearts, with an appetite to come again the next opportunity, becauſe you found Jehovah ſo graciouſly preſent the laſt time. Oh! when, Brethren, dearly beloved, and longed for, ſhall I ſee your faces again in the great Congregation? In the Lords beſt time, in the time appointed of the Father, my Father, your Father: to Him, with the Lord Jeſus and the holy Spi<g ref="char:EOLhyphen"/>rit, be glory for ever, <hi>Amen.</hi> Salute every Saint in Chriſt Jeſus. The Lord, the eternal God, be with you, and keep you every one in his boſome for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>The <hi>8</hi> of the <hi>12</hi> Moneth, <hi>1653.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours in the Lord, to ſerve and love you unfeignedly, <hi>Chriſtopher Feake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:114658:17"/>
+            <head>For the Saints and faithful Brethren in CHRIST meeting in Warwick-lane, <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>My dear Brethren in Christ,</salute>
+            </opener>
+            <p>THe proſperity of whoſe ſouls I ardently deſire more and more. Bleſſed be the God and Father of our Lord Jeſus Chriſt for all thoſe ſpiritual bleſſings in heavenly things in Chriſt, wherewith he hath and doth bleſs us the unworthieſt of his ſons and daughters. Let me now write a few words unto you by way of exhortation, to preſs forward toward the mark, for the price of the high calling of God in Chriſt Jeſus; for I perceive that in the neglect of this duty, Satan takes great advantage to keep up his totter<g ref="char:EOLhyphen"/>ing and ſinking kingdom at this day.</p>
+            <p>If the Angels of all the Churches had been zealous in the proſecuting of thoſe things of which they made a fair ſhew in the fleſh, and in face or appearance, Undoubtedly the ſe<g ref="char:EOLhyphen"/>veral Congregations had been the glory of the Nation in the midſt of it, as God was willing to be their glory in the midſt of the Nation; then had not the faces of the moſt intelligent and ſpiritual Saints waxed pale with grief, to behold the apoſtacy of the moſt eminent leaders; then had not the forceries and witchcrafts of this preſent world, beguiled them ere they were aware; then had not Satan filled their hearts, and the hearts of ſo many of the Brethren, to deal treacherouſly with the Lord Jeſus and this glorious Cauſe, which is in great danger to be deſerted utterly, as a thing of no value. But they are the laſt times, and therefore it is the leſs wonder to ſee men to be <hi>lovers of their own ſelves, covetous, boasters, proud, — — truce-breakers, falſe accuſers,</hi> inconti<g ref="char:EOLhyphen"/>nent, <hi>fierce, deſpiſers of thoſe that are good, traitors, heady, high<g ref="char:EOLhyphen"/>minded,
+<pb n="10" facs="tcp:114658:18"/>lovers of pleaſures,</hi> (hunting, feaſting, muſick, worldly pompe and paſtime) <hi>more then lovers of God, having a form of godlineſs, and denying the power of it;</hi> from ſuch thoſe who are contrary minded muſt and will turn away, namely, ſuch Chriſtians as being full of the Spirit, 1. Are not lovers of their own ſelves, but of the Lord Jeſus and of all the Saints. 2. Not covetous, but liberal, laying aſide as God hath proſ<g ref="char:EOLhyphen"/>pered them, honouring the Lord with their ſubſtance, and with the firſt-fruits of all their increaſe; doing good, rich in good works, ready to diſtribute, willing to communicate. 3. Not arrogant, boaſters; but lowly and meek, ſelf-denying, reſigning up all to the wiſe diſpoſal of their Father. 4. Not promiſe-breakers, or covenant-breakers, but faithful; not changing a good reſolution or word, though it be to their hurt. 5. Not traitors to the Saints, to Chriſts Intereſt, to Gods Glory; but zealous promoters of common juſtice, of righteous laws. 6. Not heady, or raſh, wilful, vio<g ref="char:EOLhyphen"/>lent advancers of their own forms; but praying, waiting, de<g ref="char:EOLhyphen"/>liberating. 7. Not lovers of pleaſures more then lovers of God; but lovers of God, of Chriſt, of the Saints, of the Common-wealth, and publick-good, more then of all the pleaſures, delights, honours, powers and glory, which the world can by any means adminiſter to her admirers. Oh take heed of mingling with backſliders and revolters! you will gain nothing by acquaintance with them, or dependence on them: be contented with ſuch things as you have, if it be poſſible, (yea, if you have but food and raiment:) be not ſollicitous, do not make a buſling for places and preferments, as do others, leſt you be brought into the temptations of ſerving proud imperious mens luſts and humours. The word of command from our Captain-general, by this his unworthy leader of one of his Companies, is, <hi>To your cloſe order, to your cloſe guard;</hi> and the watch-word is, <hi>The Lord is coming, watch and pray; the Lord is coming, watch and pray.</hi> Give the word, fellow-Souldiers, throughout the Lords Hoſt, which is armed with inviſible, invincible, ſpiritual weapons; it will become in due time terrible as an Army with Banners, <hi>Amen.</hi>
+            </p>
+            <pb n="11" facs="tcp:114658:18"/>
+            <p>Finally, my Brethren, the time being ſhort, Oh! beg of the Lord, that you may go forward towards Goſpel-perfecti<g ref="char:EOLhyphen"/>on, that you may be full of ſpiritual knowledge, experiences, and acquaintance with God, even the Father, and with the Lord Jeſus Chriſt. Now let the word of Chriſt dwell richly in you. As for faith toward our Lord Jeſus Chriſt, and love to all the Saints, if your ſouls flouriſh and proſper therein, all will flouriſh; then you will preſs onward, you will be zealous, not luke-warm; you will admoniſh one another, watch over each the other, adviſe, help one the other; you will glorifie the Lord, adorn the Goſpel, ſhine like lights in the dark world, and put formal, worldly, hypocritical pro<g ref="char:EOLhyphen"/>feſſors and Church-members to ſhame, at the coming of Jeſus Chriſt. Salute every Saint, eſpecially thoſe who are moſt helpful, exemplary, and diligent to promote the communion of Saints. If there be any that will not obey the Law of Chriſt upon admonition in love, note that man or woman by letter, that I my help to heal them at this diſtance; for I am with you in Spirit. The Lord, even the Lord that fanctifies and ſaves you, be your portion for ever.</p>
+            <closer>
+               <dateline>
+                  <date>The <hi>11</hi> of the <hi>12</hi> Moneth, <hi>1653.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours in the Lord with all I am, <hi>Chriſtoph. Feake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My Beloved in the Lord,</salute>
+            </opener>
+            <p>I Do again ſalute you, as thoſe, to whom the Father of glory hath appeared in the face of Jeſus Chriſt, and to whom the holy Spirit hath already come, as the Comforter, to ſatiate the ſoul of the hungry and thirſty ones, more or leſs. My ſoul is ſtill waiting upon the Lord for your good, as knowing that all your freſh ſprings are in him, as mine are; otherwiſe we ſhould ſoon lie down in ſorrow. But bleſſed for ever be the glorious Name of our Jehovah, who in the ſuperabundant riches of his grace, hath made moſt precious proviſion in the
+<pb n="12" facs="tcp:114658:19"/>Lord Jeſus Chriſt for us, and for all the Saints. Verily, Bre<g ref="char:EOLhyphen"/>thren, the conſideration of the willingneſs and large heart<g ref="char:EOLhyphen"/>edneſs of our heavenly Father, is enough to overwhelme our poor weak Spirits; our frail hearts are not in any wiſe able to bear up under that weight of glory, which breaks in upon us: when the moſt High condeſcends to viſit any of our ſouls from the throne of his glory, Oh! how are we even filled with wonderment at thoſe enjoyments and attainments! eſpecially when we remember what we were in time paſt, enemies in our mindes by wicked works, full of unrighteouſneſs, or ſelf<g ref="char:EOLhyphen"/>righteouſneſs, very vain, fooliſh &amp; diſobedient, ſerving divers baſe luſts and pleaſures. Now for ſuch wretches, and vile, baſe creatures as we were, to be ſo graciouſly dealt withal, to be ad<g ref="char:EOLhyphen"/>mitted into the preſence of the great Jehovah, to partake of exceeding great &amp; precious promiſes of the divine nature, of the holy Spirit, to be ſealed with it to the day of redemption, and a thouſand ſuch priviledges; what maner of love is this? Oh! all ye Saints, break forth in ſecret and open admirations; wonder at theſe things, as at the moſt rare and excellent ob<g ref="char:EOLhyphen"/>jects that are in all the world. What? what are the pleaſures and honours, and pomp, and powers of the children of men, to that joy and peace, which is in believing, to thoſe raviſhing delights that are in the preſence of the Lord, and at his right hand for evermore? Aſſuredly, if the holy Spirit were fallen upon any of us in that ſpiritual glory that is expected, we ſhould indeed ſhine like lights in the world, and hold forth the word of life moſt affectionately and effectually to the Saints, and to the ſinful ſons of men; we ſhould be a bleſſing each of us in every place where we come: Parents would a<g ref="char:EOLhyphen"/>dorn the Goſpel, Children would adorn the Goſpel, Paſtors, People would be Ornaments to the way of Chriſt; and the want of that Spirit, and the non-reſting thereof upon us, is the ground of all that unevenneſs in our walking, of our un<g ref="char:EOLhyphen"/>fruitfulneſs and barrenneſs in the Lords Orchard, of our un<g ref="char:EOLhyphen"/>uſefulneſs in our generation.</p>
+            <p>As for my preſent condition, I tell you again, and I tell you rejoycing, The Lord is good, exceeding good; I am filled
+<pb n="13" facs="tcp:114658:19"/>with his company, I am ſatisfied as with marrow and fatneſs, I muſt praiſe him with joyful lips: when I meditate in the night watches, my meditations are very ſweet. It is beſt for me to be with God, with his people; and I ſhall be much with the Lord, that I may again, once more, be with his hid<g ref="char:EOLhyphen"/>den ones, and his holy ones, that rejoyce in his Highneſs. I am departed for a ſeaſon, that I may return for a great ſpace of time: goodneſs and mercy ſhall follow me all the dayes of my life; and I would gladly be a pillar in the houſe of my God, and would go no more out. And let me tell you, I earneſtly (and I deſire your help alſo) beg and intreat, that the Lord Jeſus, that the name of the city of my God, which is the new <hi>Jeruſalem</hi> which cometh down out of heaven from my God, and Chriſts new name, may be written upon me: I am looking out for my right to enter into that City, which ſhall be called, <hi>The Lord is There.</hi>
+            </p>
+            <p>Brethren, beloved of the Lord, how is it with you, and the daughters of <hi>Sion?</hi> are you like the chariots of <hi>Aminadab,</hi> a living lively people, a zealous active people? Tell me at this local diſtance, how is it with you? do you fear the Lord above many? do you thrive and proſper, as the primi<g ref="char:EOLhyphen"/>tive Saints uſed to proſper, that were Saints indeed? do you wreſtle for me in good earneſt? for I truſt this impriſonment ſhall turn to a good account, through your prayer, and the ſupply of the Spirit of Jeſus Chriſt: to that dear Saviour of yours and mine, be excellent glory for ever. His glorious grace be with every faithful heart, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>From my Quarters at <hi>Windſor</hi>-Castle <date>this <hi>15</hi> of the <hi>12</hi> Moneth, <hi>1653.</hi>
+                  </date>
+               </dateline>
+               <signed>Your Shepherd in bonds, <hi>Chriſtoph. Feake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="14" facs="tcp:114658:20"/>
+            <opener>
+               <salute>My dear friends and companions in the fellowſhip of the Goſpel,</salute>
+            </opener>
+            <p>SEeing the good pleaſure of the Lords goodneſs, and the work of Faith, is fulfilling in me the Lords unworthy pri<g ref="char:EOLhyphen"/>ſoner, &amp; the time appointed of the Father is not yet come; I do not finde my ſpirit willing to accept of deliverance, before the one and the other be fulfilled with power, that the Name of the Lord Jeſus Chriſt may be glorified in me, and I in him, according to the grace of God and of the Lord Jeſus Chriſt. Oh dear hearts! it is given to me a poor ſilly worm, deſpiſed of the people, through the wonderful free grace of my God, <hi>Not onely to believe</hi> (which is no ſmall token of the favour of God in Chriſt) <hi>but alſo to ſuffer for his ſake;</hi> which ſeems to be an addition of his favour, to thoſe that have firſt believed. Oh! who knows what it is to be ſealed with the holy Spirit of promiſe, but thoſe that have a ſpiritual feeling of the mighty power thereof! how good is it to draw nigh to God! I have often ſpoken of it, and felt it; but now it is glorious indeed, to keep company with the Lord himſelf in his own holy place, even the Holy of Holies. My hearts deſire for you all, and every one, is, That you might be filled with all wiſdom and ſpiritual underſtanding, and by degrees come to all riches of full aſſurance of underſtanding, to the ac<g ref="char:EOLhyphen"/>knowledgement of the myſtery of God even the Father, and of Chriſt; for verily that is ſuch a condition as makes a hea<g ref="char:EOLhyphen"/>ven on this ſide heaven. Oh! the excellent glory, ſweetneſs, and fulneſs of that eſtate! but never (I am perſwaded) did any of the Saints enjoy themſelves and their God, ſo richly and abundantly, as the ſincere Martyrs and ſufferers for the Name of Chriſt and the Goſpel; becauſe none have occaſion ſo much as they; all the world hate them, and their perſe<g ref="char:EOLhyphen"/>cutors eſpecially: therefore if the Lord alſo hid himſelf from them, poor wretches, they would be of all men moſt miſera<g ref="char:EOLhyphen"/>ble. Therefore, further, <hi>Chriſt is bound by the duty of his
+<pb n="15" facs="tcp:114658:20"/>Office</hi> to look after <hi>Them,</hi> to ſtand by <hi>Them,</hi> to cheriſh and to nouriſh <hi>Them,</hi> to countenance and incourage <hi>Them,</hi> to fill them with his own fulneſs, when the world hath emptied them, and ſcorned them, and impriſoned them, and buffeted them, and put them into the forms of traitors, of hereticks, of ſeditious ones, <hi>&amp;c.</hi> If the Lord ſhould not reveal his love; yea, if he ſhould not <hi>crown them with loving kindneſs and tender mercies,</hi> then That Temptation would rational<g ref="char:EOLhyphen"/>ly prevail, <hi>It is in vain to ſerve God, it is better to ſerve the luſts of men, and our own:</hi> It will urge further, What profit is it that we have kept his Ordinances? Is it not better to obſerve the Ordinances of the Kings of the earth, of the Princes, of the States and Protectors of the earth, then otherwiſe, and do as the moſt do, as thoſe do who are lovers of pleaſures more then lovers of God?</p>
+            <p>But bleſſed be the Lord Jehovah, my rock, for ever; I have no ground to be diſſatisfied with my condition in this reſpect, as if the Lord did keep at a diſtance, as well as man; yea, on the other ſide, I am full, I am rich, I abound, the Lord is with me <hi>most graciouſly, moſt gloriouſly.</hi> Friends, if you knew what it is to loſe all, or to be willing to loſe all for Chriſt, in the light and power of the Spirit of Chriſt, you would be more couragious, forward and zealous in this no<g ref="char:EOLhyphen"/>ble Cauſe, in danger to be ſtarved (but it ſhall not miſcarry) by the policy and private intereſt of men of corrupt minds, and deſtitute of the Truth, and of the Spirit.</p>
+            <p>Brethren, I muſt break off: I am as much imployed, as when I was in <hi>London,</hi> for the moſt part, and am put to it, to write my Letters to you while company is in my cham<g ref="char:EOLhyphen"/>ber; and ſo ſwiftly write what the Lord dictates, without ſtudy: for I want opportunity; and the meſſenger now ſtaies. Therefore, remember what I have taught you publickly and privately from houſe to houſe; it is, for the ſubſtance of it, ſuch Doctrine as I dare through Grace, and the aſſiſtance thereof, ſeal with my blood. I can boldly ſay, The Lord is my helper, I will not fear what man can do unto me: be ye ſtrong, quit your ſelves like men; fear not the power, pride,
+<pb n="16" facs="tcp:114658:21"/>luſts, threatnings of man, walk as becometh the Saints; let brotherly love continue, be not aſhamed of my bonds, nor of my keeper. Expect glorious revolutions, to make way for the deſire of all Nations. Bleſſed are they, even all thoſe that wait for him, and love his appearing. My heart is in<g ref="char:EOLhyphen"/>larged: ſurely prayer is made for me, I finde ſo much incoms from heaven. The Lord be your exceeding great reward, who wreſtle for me. Salute every Saint, eſpecially thoſe who are moſt full of the Spirit, and moſt uſeful for Chriſt and his people. Eternal grace and glory be every ones portion, henceforth and for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>The <hi>18</hi> of the <hi>12</hi> Moneth, <hi>1653.</hi>
+                  </date> From my ſtrong Tower and place of ſure defence.</dateline>
+               <signed>Your faithful Shepherd, although abſent and in bonds, <hi>Christopher Feake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My dearly beloved Brethen in the Lord,</salute>
+            </opener>
+            <p>ACcording to that talent which I have received from the Lord, I deſire to be found fruitful and faithful to the Lord Jeſus and his people; for it would be a moſt ſad thing, for my Maſter to finde his ſervants either idle, or ill-em<g ref="char:EOLhyphen"/>ployed. And ſeeing, dear Brethren, that ye look for ſuch things as the Apoſtle <hi>Peter</hi> doth ſpeak of, in 2 <hi>Epiſt.</hi> 3 <hi>chap. Be diligent, that ye alſo may be found of him in peace, without ſpot, and blameleſs.</hi> Queſtionleſs, when he comes that ſhall come, he will finde but little faith on the earth; and if he finde it ſo, you and I may readily conjecture, how all other graces will be wanting; inſomuch, that the righteous will ſcarcely be ſaved, and the wiſe Virgins will do no more then enter in. I fear there will not be an entrance adminiſtred unto
+<pb n="17" facs="tcp:114658:21"/>them abundantly, into that everlaſting kingdom of our Lord and Saviour Jeſus Chriſt, becauſe but even then, they will be ſlumbering and ſleeping, and ſo cannot have their ſences exerciſed, and in a meet poſture to keep him company, as thoſe who have watched with the Bridegroom, and come a<g ref="char:EOLhyphen"/>long with him.</p>
+            <p>You ſee I am careful to ſtir up your pure mindes by way of remembrance, at this diſtance; it is altogether from love, and for your edifying. It may be ſome of you may be willing I ſhould receive advertiſements of your beſt things, of your faith, and hope, and love, and humility, <hi>&amp;c.</hi> but not of your weakneſſes, of any omiſſions or neglects, of any whiſperings or evil ſurmiſings, or ſuch-like unſeemlineſs; but let ſuch remem<g ref="char:EOLhyphen"/>ber, that the whole Scripture being given by divine inſpirati<g ref="char:EOLhyphen"/>on, it is not onely profitable for doctrine, but for reproof, and for correction and inſtruction in righteouſneſs. Therefore if any of you finde any diſcontents or ſwellings in your own Spirits, which you indeavour to hide, but yet they are clear<g ref="char:EOLhyphen"/>ly diſcerned by experienced Saints; (for one word is enough to the wiſe:) let ſuch an one know and remember, that it is not a Goſpel-frame of heart: the <hi>Corinthians</hi> indeed were puffed up for one againſt another; but the Apoſtle reckons it a great uncomlineſs in that body of Chriſt. I write not theſe things to ſhame you; but (as thoſe who are dear to me) I admoniſh you, leſt Satan ſhould get an advantage of you, and ſo occaſion your adverſaries, and his inſtruments, to blaſ<g ref="char:EOLhyphen"/>pheme the people and waies of God.</p>
+            <p>Oh! Brethren, make it each of you (for the Lord Jeſus Chriſts ſake) your buſineſs, that your love, your holineſs, your meekneſs, moderation or evenneſs of Spirit, be known unto one another, and unto all men, that you may rejoyce exceed<g ref="char:EOLhyphen"/>ingly, and I may rejoyce exceedingly when we ſhall meet to<g ref="char:EOLhyphen"/>gether again, not on<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly in this world, but in that which is to come; when all the faithful ſhepherds with their flocks ſhall be gathered together before the great Shepherd of the ſheep, and receive from him a crown of glory that fadeth not away, reſerved in heaven for us, who are kept by the
+<pb n="18" facs="tcp:114658:22"/>power of God through faith unto ſalvation.</p>
+            <p>Finally, <hi>Oh ye dwellers upon mount Sion!</hi> take heed to your ſteps, to your goings out and your comings in; let your words be ſeaſoned with ſalt, which may miniſter grace to the hearers, and not grief. The bridling of the tongue is an heavenly art and faculty: we count him a perfect man, who is very skilful this way. Be ſwift to hear, and ſlow to ſpeak; and be ſure to remember, That our adverſary the devil goes up and down like a roaring lion, ſeeking whom he may de<g ref="char:EOLhyphen"/>vour: like as the Lord ſaid of <hi>Behemoth, He trusteth that he can draw up Jordan into his mouth;</hi> ſo, this crooked and pier<g ref="char:EOLhyphen"/>cing ſerpent hopes <hi>to ſwallow up whole Churches into the gulph of his belly, which is this preſent evil world.</hi> Oh therefore! let your eyes be in your forehead, to foreſee the dangers of the preſent juncture of time. The Lord fill your ſouls with Himſelf, and Son, and Spirit, that there may be no room nor place in your hearts for any ſublunary intereſt whatſoever. The time is ſhort; the path is untroden; ſnares are multipli<g ref="char:EOLhyphen"/>ed; the ſervice is hot; the victory is impoſſible to fleſh and blood, but eaſie to faith. Wherefore, my beloved in the Lord, be ye ſtedfaſt and unmoveable, alwaies abounding in the work of the Lord, foraſmuch as you know that your labour is not in vain in the Lord, in whom I ſalute every Saint in Chriſt Jeſus throughout the whole Congregation, both thoſe that were in Chriſt before me, and thoſe whom the Lord hath revealed himſelf to, of later yeers; the weak and the ſtrong, the rich and the poor, great and ſmall, who are be<g ref="char:EOLhyphen"/>loved of Chriſt: to him be glory and dominion in this, and in the world to come, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>From my pleaſant priſon-houſe, <date>this <hi>24</hi> of the <hi>12</hi> Moneth, <hi>1653.</hi>
+                  </date>
+               </dateline>
+               <signed>Your careful ſhepherd in bonds, for the teſtimony of the king<g ref="char:EOLhyphen"/>dom of the Lord Jeſus, <hi>Chriſtopher Feake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="19" facs="tcp:114658:22"/>
+            <opener>
+               <salute>Dearly beloved in the Lord,</salute>
+            </opener>
+            <p>HOw far, and to what degrees my Letters have been ac<g ref="char:EOLhyphen"/>ceptable unto you, the Lords people, and a part of the lot of his inheritance, is beſt known to him whoſe eyes are in the midſt of the golden Candleſticks, as a flame of fire, and whoſe prerogative it is to ſearch the hearts and try the reins of the children of men. But bleſſed be the God and Father of our Lord Jeſus Chriſt, the Father of glory, who hath put me in the Miniſtery of the new Teſtament, that he hath vouchſafed to his poor unworthy ſervant, <hi>This grace of bearing teſtimony to his coming and his kingdom,</hi> and hath ſuper<g ref="char:EOLhyphen"/>added and heaped up incouragement upon incouragement; ſo, as that I ſhall not be left nor forſaken in this <hi>honourable Cauſe of his Son Jeſus Chriſt, and of his Goſpel.</hi> And I do further praiſe his glorious Name by this Epiſtle in this Congregati<g ref="char:EOLhyphen"/>on of his Saints, for that he hath given me a room in his own boſome, and in his holy place, even in the holy of ho<g ref="char:EOLhyphen"/>lies, the place where his Honour dwelleth, and where his glory ſhineth; as alſo, hath let me into the hearts and pray<g ref="char:EOLhyphen"/>ers of many of his choiceſt people, who have received a good meaſure of that holy and divine unction, whereby gra<g ref="char:EOLhyphen"/>dually they may come to know all things: although I am al<g ref="char:EOLhyphen"/>ſo ſenſible of that diſſatisfaction concerning me and my Cauſe, which is upon the Spirits of divers godly people. But do not we know that they are generally ſuch as are content<g ref="char:EOLhyphen"/>ed to ſit down on this ſide <hi>Jordan</hi> with the two Tribes and a half? and their attainments and enjoyments are no higher then they were ſeven yeers ſince, if ſo high, neither do they deſire they ſhould be; but my ſoul pities them. I ſee, <hi>thoſe that were firſt, are in danger of being the laſt; and the laſt, are in probability of being firſt. And bleſſed are they who are not offended in Chriſt, and at the Goſpel of the kingdom.</hi> As for you, Brethren, beloved, and longed for, great is my care for you, great is my rejoycing over you; I can ſay, Through grace the Lord
+<pb n="20" facs="tcp:114658:23"/>hath given me to have a natural <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re of your ſtate, and of your affairs; and what I have written hitherto, I have writ<g ref="char:EOLhyphen"/>ten with much ſeriouſneſs of Spirit, as in the ſight of God; and in ſincerity, as knowing that I am what I am, through free mercy, for your edifying. Information is for your edify<g ref="char:EOLhyphen"/>ing, exhortation is for your edifying, reproof is for edifying: if there be no matter for reproof to work upon, if it finde no<g ref="char:EOLhyphen"/>thing in you, or any of you, bleſs the Lord who hath kept you; and that joy in uprightneſs and innocencie, will be for your e<g ref="char:EOLhyphen"/>difying. If there be any among you conſcious to any unworthy walking before the Lord, his people, and the world, (as who is not? I am ſure, I am guilty of unworthy walking and miſcar<g ref="char:EOLhyphen"/>riages every day) then let every ſuch one lay his or her hand upon their heart, and humble themſelves ſecretly before the Lord, and look to their ſteps. Our God is a jealous God, and a conſuming fire, and he ſearcheth <hi>Jeruſalem</hi> with candles, and eſpies and knows all your thoughts, all your works, and waies, and words, and walks. Look to your hearts, and ſpi<g ref="char:EOLhyphen"/>rits, and affections, and diſpoſitions, and ends, and principles, with all diligence. Believe it, Chriſt will make work among you, if all be not found at the bottom: my office and miniſtery which I have received in the Lord, will bear me out in being inſtant in ſeaſon &amp; out of ſeaſon, in repreſenting what I judge to be the minde of Chriſt unto you from the oracles of God, they being profitable for doctrine, and for reproof, correction and inſtruction in righteouſneſs; &amp; happy are the people, who have the Lord Jehovah ſo neer unto them in all matters, for their God, as he is even unto you; though I am nothing, and deſire to be accounted ſo, ſo that Chriſt may be all, &amp; in all; ſo that you may make up the fulneſs of him that filleth all in all.</p>
+            <p>As for that fruit of righteouſneſs and love, which you have lately ſhewed forth in the preſence of the Lord Jeſus, and his elect Angels, for, and in conſideration of my ſufferings for<g ref="char:EOLhyphen"/>merly at Newgate-market, and at the preſent, and of all thoſe neceſſary expences incident thereunto; I do here teſtifie, to the glory of the Lord, and declaration of your readineſs of minde, that it was adminiſtred in ſea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on; and ſo hath not onely made a ſupply of that which ſhould have been admi<g ref="char:EOLhyphen"/>niſtred
+<pb facs="tcp:114658:23"/>by others, and was not, but alſo is abundant, by many thankſgivings unto God: and as he that ſoweth ſpa<g ref="char:EOLhyphen"/>ringly, ſhall reap ſparingly; ſo he that ſoweth bountifully, ſhall reap bountifully: for as you abound in this grace and other graces towards others; ſo God is able to make all grace abound towards you. Therefore, my Beloved, as ye have al<g ref="char:EOLhyphen"/>waies obeyed, not as in my preſence onely, but now much more in my abſence, Work out your own ſalvation with fear and trembling; yet let not the hope &amp; aſſurance of ſalvation, eat up and devour your holy fear and trembling frame of ſpirit before the Lord; but like the true inward circumciſion, <hi>wor<g ref="char:EOLhyphen"/>ſhip God in ſpirit, rejoyce in Chriſt Jeſus, and have no confidence in the fleſh.</hi> Further, I exhort you and urge you, as from the Lord, in whoſe name I write, to do all things without murmurings and diſputings: let all your things be done in brotherly love; let all paſſages be managed with meekneſs of ſpirit, that con<g ref="char:EOLhyphen"/>cern a private intereſt; but with holy zeal, that concern the publick intereſt of our Lord and Law-giver: and to this end, the Lord give you all, from the greateſt to the leaſt, a ſpi<g ref="char:EOLhyphen"/>rit of wiſdom, to try things that differ; and particularly, to di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt the glory of Chriſt, and the honor of men; that you may approve accordingly of that (alwaies in all con<g ref="char:EOLhyphen"/>ferences) which is moſt excellent; for I tell you, or rather the Lord, That his glory muſt not now be given to another; and they that follow the Lamb whitherſoever he goes, muſt have alſo a conſtant diſpoſition to leave all, to loſe all, at an hours warning, for his ſake &amp; the Goſpels. With many other words I could write unto you, for my heart is inlarged; but I muſt break off, and commend you to the grace of that God who brought again from the dead that great Shepherd of the ſheep by the blood of the everlaſting Covenant; and to the word of the Goſpel, which is able to build you up further, and to give you an inheritance among them that are ſanctified through faith in Chriſt Jeſus: to whom with the holy Spirit be glory for ever. Brethren, pray for me and mine, when you pray for your own ſouls.</p>
+            <closer>
+               <dateline>
+                  <date>The <hi>1</hi> of the <hi>1</hi> Moneth, <hi>1653.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours in bonds, for yours and the ſervice of all the Saints, CHRISTOPHER FEAKE.</signed>
+               <pb n="22" facs="tcp:114658:24"/>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>Brother <hi>Simpſon</hi> ſalutes the Church in the Lord, and deſires continuation of prayers, thanking you all for your kinde remem<g ref="char:EOLhyphen"/>brance.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Dearly beloved Brethren,</salute>
+            </opener>
+            <p>MY hearts deſire and prayer to God for you all, is, that as you have received Chriſt Jeſus the Lord, ſo you may walk in him, rooted and built up in him, and ſtabliſhed in the faith, as you have been taught, abounding therein with thankſgiving; for otherwiſe, Satan will get an advantage a<g ref="char:EOLhyphen"/>gainſt you, and prevail upon you, ſo as to put you to ſhame, and me alſo, in the ſight of this preſent, evil, old world. Oh! how will it tend to the glory of our God and Father, and of our Lord Jeſus Chriſt, for you to remain unmoveable and un<g ref="char:EOLhyphen"/>ſhaken in the midſt of all the preſent temptations, both on the right hand and on the left? conſidering, that <hi>the ſubtil old Serpent hath, doubtleſs, a moſt miſchievous deſigne againſt you, as you are the Temple and Habitation of the living God.</hi> Oh! how ſhall we rejoyce together, when we meet to bleſs and to praiſe the Lord <hi>for preſerving us unto his heavenly kingdom?</hi> notwithſtanding the ſtrong endeavours of all adverſaries, to keep us aſunder, to ſcatter us, and ſo to rejoyce and glory in our deſolation. But our God will come, and will not keep ſilence; yea, he will come with vengeance, and make a moſt wonderful diſcovery of that notorious falſehood and hypocriſie, of that prodigious perfidiouſneſs, whereof this a<g ref="char:EOLhyphen"/>dulterous generation is ſo deeply guilty before the Lord and his people. In the interim, poſſeſs your ſouls with pa<g ref="char:EOLhyphen"/>tience; watch and pray, leſt you alſo enter into temptation, leſt you alſo being led away with the error of the wicked, fall
+<pb n="23" facs="tcp:114658:24"/>from your own ſtedfaſtneſs. Remember, it is Jeho<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ah your righteouſneſs, who is able to keep you from falling, and to preſent you faultleſs before the preſence of his glory with exceeding joy.</p>
+            <p>Great are my hopes, many are my fears concerning you, and eſpecially concerning thoſe among you, who ſhall think within themſelves, when they hear this, You are more fearful, or he is more fearful then he needs to be; we ſhall do well e<g ref="char:EOLhyphen"/>nough: let ſuch an one think (if any ſuch there be) that ſuch thoughts nouriſhed and cheriſhed in his heart, are certain ſymptomes of an uncertain Spirit, and of a treacherous heart. Oh conſider, conſider what relicks of unbelief! what remainders of luſts! what members of the old man, are yet unmortified in the beſt of us! Who made us to differ from the World? Oh lean, lean upon your Beloved, that hath made a difference between you and thoſe poor creatures, that are yet in their blood, yet in their ſins. Are you not believers? are you not Diſciples of the Lord? are you not Saints by calling? have not you every one ſeen the Lord? have not you as others beheld as in a glaſs, with a face unveiled, the glory of the Lord? then, Brethren, why are we not tranſ<g ref="char:EOLhyphen"/>formed from glory to glory? why are our hearts narrow, cold, heavy? why are our Spirits carnal, earthly and ſtagger<g ref="char:EOLhyphen"/>ing? why do not our ſouls mount aloft? Great is my bold<g ref="char:EOLhyphen"/>neſs in writing, as it uſed to be in ſpeaking to you. (I have a great intereſt in you, and among you: I have a great part, a large ſhare in the good or evil that befals you: your com<g ref="char:EOLhyphen"/>forts, are my comforts alſo; your diſcomforts, are my diſ<g ref="char:EOLhyphen"/>comforts alſo.) Oh that I might warm your hearts at this diſtance, by the power of God! ſetting theſe expreſſions of love and truth, ſtrongly and effectually upon all your hearts. How doth the inward pulſe of your hidden man beat? what ſecret workings, walkings and communications in the in<g ref="char:EOLhyphen"/>moſt holy place? Do you, can you ſet your feet upon the necks of your woſt enemies, the curſed corruptions of your nature? Verily, Chriſtians, if you do not grow into inti<g ref="char:EOLhyphen"/>mate acquaintance with the Almighty; if you attain not
+<pb n="24" facs="tcp:114658:25"/>to holy familiar communion with the Father and his Son Jeſus Chriſt, you will be of little uſe in the publick ſervice of the Lambe againſt the Dragon, the Beaſt and the falſe Pro<g ref="char:EOLhyphen"/>phet. Beg with ardent ſupplication, <hi>to live and to be kept under the glorious ministration of the Spirit. Do not ſo minde the work within doors, as to neglect the work abroad. Do not give up your ſtrength, and the might of your Spirits, for the carrying on the publick work of Chriſt abroad, to the diſadvantage of the concern<g ref="char:EOLhyphen"/>ments of your ſouls:</hi> but as I have formerly adviſed you, touching the graces and the gifts of the Spirit; ſo I perſwade as to this matter, carry on the great affairs within and with<g ref="char:EOLhyphen"/>out, <hi>In conjunction and in proportion:</hi> But remember, (as I have told you often) Therefore doth the Lord diſpatch the buſineſs of your ſalvation and particular happineſs, giving you a full aſſurance of eternal life, that ſo, his people having their own inheritance ſecured to them for ever, they may be ca<g ref="char:EOLhyphen"/>pable of ſerving the Lord Jeſus in their generation, upon the moſt noble account. Now, my Beloved, I ſhall conclude with a few words unto you, as you are aſſembled together in the Name of the Lord: ponder your paths, ſtudy the duty of your relations. Conſider what families you live in, and what eyes are upon you; let the believing Husband endea<g ref="char:EOLhyphen"/>vour to gain the unbelieving wife; and the believing wife, the unbelieving husband, by a holy, wiſe, loving, dutiful con<g ref="char:EOLhyphen"/>verſation both in word and deed; let parents and children that fear the Lord, carry themſelves as becometh the Goſpel; ſo maſters and ſervants: that was the great care of the A<g ref="char:EOLhyphen"/>poſtles in the primitive Churches. Study the Epiſtles that were ſent to all the Congregations. You have lately teſti<g ref="char:EOLhyphen"/>fied your love to me, beyond my expectation; accept of this and ſuch-like tokens of my love to you. <hi>Oh that I might finde you, when my God brings me among you, a people mightily improved in holineſs and purity, in brotherly kindeneſs and love, in ſelf-denial and heavenly mindedneſs, in zeal and ſpi<g ref="char:EOLhyphen"/>ritual magnanimity, in every grace, in every gift, walking in the most excellent waies of truth and peace;</hi> that God in all things might be glorified by us, through Jeſus Chriſt, to whom
+<pb n="25" facs="tcp:114658:25"/>be glory for ever, <hi>Amen.</hi> This Epiſtle and Salutation is ſent in much affection unto you,</p>
+            <closer>
+               <dateline>From my priſon-houſe, <date>this <hi>4</hi> of the <hi>1</hi> Moneth, <hi>1654.</hi>
+                  </date>
+               </dateline>
+               <signed>From your faithful ſhepherd, through grace, ſtill in bonds for Chriſt. <hi>Chriſtoph. Feake.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>My fellow-priſoner and my yoke-fellow ſalute you; and we ear<g ref="char:EOLhyphen"/>neſtly deſire a continual mention in prayers and ſupplications before the Lord; withal, deſiring, that the Lord may be magnified in the Congregation, for all the loving kindneſſes and tender mercies, wherewith he hath crowned us, ſince we were made the priſoners of Jeſus.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>My dearly Beloved,</salute>
+            </opener>
+            <p>BEhold, what manner of love the Father hath beſtowed upon us, that we ſhould be called the Sons of God! If the Lord Jeſus will confeſs us to be ſuch before his Father and the holy Angels, yea, and before the faces of our prou<g ref="char:EOLhyphen"/>deſt adverſaries, What ground of joy unſpeakable and full of glory will be hereby adminiſtred unto us, even in the midſt of all thoſe reproaches and ſlanderous reports, that the men of the world <hi>(who minde earthly things)</hi> do indeavour ſo induſtriouſly to heap upon us? The truth is, <hi>The world knoweth us not, becauſe it knew not him; it hateth us, becauſe it hated him.</hi> And the news of his ſecond coming is as trouble<g ref="char:EOLhyphen"/>ſome to the Kings of the earth, now in being, whether they are the ſons of ancient Kings, (as the Prophet ſpeaks) or late
+<pb n="26" facs="tcp:114658:26"/>Uſurpers and Tyrants, as ever <hi>Herod</hi> was troubled at his firſt coming, (<hi>Mat.</hi> 2.3.) and all <hi>Jeruſalem</hi> with him. Oh, Be<g ref="char:EOLhyphen"/>loved! thoſe appearances which are acceptable to the Saints, are no waies welcome to the earthly powers; thoſe truths which are milk and honey to the children of <hi>Sion,</hi> are gall and wormwood to the inhabitants of <hi>Babylon.</hi> It's no mar<g ref="char:EOLhyphen"/>vel, nor urange at all, that it is but a little, little flock, which will be found to remain faithful to that inward, inviſible, pure, ſpiritual intereſt of our deareſt Lord, which is now breaking forth through all theſe thick and tempeſtuous clouds.</p>
+            <p>Verily, my Spirit is more and more heightned and quick<g ref="char:EOLhyphen"/>ned to look for moſt glorious and admirable viciſſitudes: Methinks my heart rejoyceth, as if a cordial from heaven were conveyed to it, to incourage me now in priſon for this good old Cauſe. Oh! what a pleaſant ſight, to ſee the Whore of <hi>Babylon,</hi> with the Kings of the earth, with all her drunken Princes, and her Wiſe men, and her Captains, and her Rulers, and her Mighty men, wearying themſelves in new Counſels, tiring out their Spirits <hi>in obviating the feared and ſuspected deſignes of the praying awakened Saints, both in Cities and Coun<g ref="char:EOLhyphen"/>tries.</hi> Come, dear Brethren, this is not a ſeaſon for you to be wearied, and to faint in your mindes; but let us look unto our Jeſus the Author and the Finiſher of our faith, who for the joy that was ſet before him, endured the croſs, and deſpi<g ref="char:EOLhyphen"/>ſed the ſhame, and is now ſet down at the right hand of the throne of God.</p>
+            <p>Brethren, now it is a fit time for us to conſider, I ſay, to conſider the Apoſtle and high-Prieſt of our profeſſion, and to hold faſt our profeſſion; let no man or devil get our Crown; our very confidence hath great recompence of reward. What ſhall I render to the Lord for all his benefits unto me? <hi>eſpe<g ref="char:EOLhyphen"/>cially thoſe bleſſings of the New-Testament-Ministration.</hi> And what thanks can you render unto him, who hath hitherto kept you by his mighty power, from the preſent abominable apoſtacie? Have you every one on a garment of fine linen, white and clean, which is the righteouſneſs of the Saints?
+<pb n="27" facs="tcp:114658:26"/>And doth the Lord help you to keep your garments about you, that no man ſee your nakedneſs? then you ſhall walk with Chriſt in white, when he comes; for you are wor<g ref="char:EOLhyphen"/>thy.</p>
+            <p>But, if on the contrary there ſhould be a declining and departing from the living God in any degree, through un<g ref="char:EOLhyphen"/>belief; if there be a decay of love to the Father, and a warm affection to the world, and the great and the ſweet things thereof, in any of you, in any among you; what a ſad con<g ref="char:EOLhyphen"/>ſequence were that? after all the open and profeſſed decla<g ref="char:EOLhyphen"/>rations, which have been obſerved by Angels and Men. But I hope better things, though I thus write, from that principle of Paſtoral-love and care, which the Lord hath put into me. What ſhall I ſay? methinks I am preſent with you, in the midſt of you, obſerving what love, peace, gentleneſs, ſweetneſs of brotherly communion there is among you, from the greateſt to the leaſt. <hi>What inward ſpiritual joy, manifest zeal, what beauty of holineſs, what mutual edifying, what pray<g ref="char:EOLhyphen"/>ing in the holy Spirit, what warm exhortations, what gracious admonitions, are ſtirring among you?</hi> Yea, but, Brethren, what if the Lord himſelf ſhould ſuddenly come, and ſtand in the midſt where you are aſſembled together, and view the poſture of that little flock, from which I am violently re<g ref="char:EOLhyphen"/>moved for a ſeaſon, for their tryal? ſhould he finde all things managed after his own heart? would you be glad to ſee the Lord, as the Diſciples were? <hi>John</hi> 20.19, 20. read the place. Might he not upbraid you with unbelief and hardneſs of heart? ſhould he finde nothing in you, and among you, worthy of admonition or reproof? Tell me at this diſtance, how could you behold him, if you ſhould ſee him in his glory, and in his Fathers glory? are you able to abide the day of his coming? I fear there are very few Congregations of Saints in all the world, that are tolerably prepared for the Bridegrooms coming.</p>
+            <p>Finally, Beloved, remember what I have ſpoken to you while I was among you, from the word of the Lord: the ſearcher of hearts knoweth, I did, and endeavoured to do,
+<pb n="28" facs="tcp:114658:27"/>all things for your edifying, for the beſt advantage of your precious ſouls: I was alwaies willing to bring forth out of my poor treaſury, things both new and old; even ſuch Truthes, and Principles, and Rules, as I received of the Lord, by the teachings of that holy unction, and de<g ref="char:EOLhyphen"/>livered unto you; I kept back nothing that I could judge by the light of the Word and Spirit, that it was profitable unto you; and it was and is your part, to ſearch the Scriptures daily, whether thoſe things were and are ſo or not. <hi>If I ſhould ſee your faces no more, if I were to be offered up, I ſhould not repent of what I have taught you, and the poor ſinful children of men; whatever the Rulers of the darkneſs of this world do judge or ſay: my heart doth not condemn me in the leaſt, all this time of baniſhments from the courts of the Lords houſe.</hi>
+            </p>
+            <p>And bleſſed for ever be my Shield and Buckler, I have great and ſweet confidence towards him; and the Lord being my Helper and Protector, I do not (for I have no cauſe to) fear what man can do unto me. The Lord make you and me faithful unto the death, and fill us, that are his in good earneſt, with joy and peace in believing; onely let your converſation be, as becometh the Goſpel of Chriſt, that whether I come and ſee you, or elſe be abſent, I may hear of your affairs, that ye ſtand faſt in one Spirit, with one minde, ſtriving toge<g ref="char:EOLhyphen"/>ther for the faith of the Goſpel. My fellow-priſoner ſaluteth you: Brethren, pray for us, ſtrive in prayer for us, that we may be delivered from unreaſonable and wicked men, in the time appointed of the Father. Salute moſt, the moſt holy, lively, heavenly, active Saints in this crooked generation. The Lord be with you.</p>
+            <closer>
+               <signed>Yours, as, and becauſe your are Chriſts, <hi>Christopher Feake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="29" facs="tcp:114658:27"/>
+            <opener>
+               <salute>Brethren, Beloved and longed for in the Lord,</salute>
+            </opener>
+            <p>
+               <hi>THe High and Mighty One, (whoſe name is Jehovah our righte<g ref="char:EOLhyphen"/>ouſneſs) be your Protector for ever.</hi> O! that he would look down from the Habitation of his Holineſs, and of his Glory, and ſmile, and ſhine upon every one of you in the Beloved, The Lord Jeſus, who loved us, and gave himſelf for us, when we were yet ſinners and ungodly, when we were yet enemies in our mindes by wicked works: to whom be glory for ever, <hi>Amen.</hi>
+            </p>
+            <p>Verily, it is good to be writing and hearing of the ſweet and precious Name of the Lord Jeſus. It is moſt pleaſant to ponder and to meditate upon the myſtery of God, even the Father, and of Chriſt. When once we have crucified the fleſh, with the affections and luſts thereof; when we are by means of walking with the holy One, become ſpiritually minded, then, Oh then! we ſuck ſweetneſs out of bit<g ref="char:EOLhyphen"/>terneſs, and can turn water into wine; then we finde meat in the eater, then we enjoy liberty in bonds, and life in death; then we feel the Lord bleſſing, when men are cur<g ref="char:EOLhyphen"/>ſing. <hi>Christianity is a mystery throughout; yea, the managing of the most eaſie and obvious affairs in the Churches of the Saints, is to be in a mystery. All your things are to be ſpiritually ordered.</hi> It's a moſt glorious ſight to me, to ſee every debate, every conſultation, every reſolution, all your ordinary matters, beautified and adorned with that holy gravity, and ſeriouſ<g ref="char:EOLhyphen"/>neſs of language, geſture, method, with that ſweetneſs of love, humility, mutual condeſcention; with that meekneſs of wiſ<g ref="char:EOLhyphen"/>dom in the Elders, of attention, and reception, and conſent in the Brethren, that may render you amiable to the Lord Jeſus and his elect Angels, being in the midſt of you; formidable to wicked men, and the evil Angels, that obſerve you, and watch for your halting, and would rejoyce to eſpie among you any uncomlineſs or abſurdity: this would be an excel<g ref="char:EOLhyphen"/>lent
+<pb n="30" facs="tcp:114658:28"/>means to help you to ſet the Lord alwaies before you, to have freſh and new thoughts of Gods Omnipreſence, of Chriſts walking in the midſt of the golden Candleſticks: this uſed to over-awe my diſorderly Spirit, when I was a<g ref="char:EOLhyphen"/>mong you. I hope I ſhall learn, as <hi>Timothy,</hi> how to behave my ſelf in the Houſe of God, which is the Church of the living God, in this ſhort time of baniſhment, better then for<g ref="char:EOLhyphen"/>merly. I believe the Lord intends a manifold benefit by my abſence, to you and many others, as well as to my own ſoul. I rejoyce exceedingly in ſpirit, to conſider, <hi>We do not live in the declining age of the Church; but in that ſeaſon, when the Lord will adde abundantly more of his Spirit, then in many gene<g ref="char:EOLhyphen"/>rations formerly.</hi> Wherefore, let me beſeech you to gird up the loyns of your minde, put on your ſandals, walk, climbe up to the top of <hi>Piſgah,</hi> look over <hi>Jordan,</hi> behold the Land of promiſe, the Land of reſt, the Land flowing with milk and honey; look beyond the downfal of <hi>Babylon,</hi> the marriage-ſupper of the Lambe, the great battel of Arma<g ref="char:EOLhyphen"/>geddon; look beyond the victory over the Dragon, the Beaſt and the falſe Prophet, to the binding of Satan; look be<g ref="char:EOLhyphen"/>yond the binding of Satan, to the coming down of the new <hi>Jeruſalem,</hi> to the ſpiritual glory of the City, <hi>whoſe name is Jehovah-Shammah, to the peaceable reign of our Solomon: there remaineth a reſt for the people of God.</hi> Believe, and live to en<g ref="char:EOLhyphen"/>ter into that reſt. Let the word of Chriſt dwell richly in you: the Lord make you all mighty in the Scriptures, wiſer then your teachers, wiſer then your enemies; and then, neverthe<g ref="char:EOLhyphen"/>leſs, the more humble, and lowly, and lovely in the poſſeſ<g ref="char:EOLhyphen"/>ſion of your attainments. The Lord fill the great veſſels, and the ſmall veſſels brim-ful of grace, and peace, and truth, and love, and ſpiritual underſtanding; in a word, fill you with his Spirit, as with new wine: the Lord make you drunk with his Spirit. Oh that every one in the Congregation had a high Spirit for Chriſt, a mighty Spirit for Chriſt. I would to the Lord you had each of you the Spirit of <hi>David</hi>'s Worthies, in a ſpiritual ſence, that a few of you, even two or three of you, were able to break through the hoſt of the
+<pb n="31" facs="tcp:114658:28"/>
+               <hi>Philistines,</hi> for our <hi>Davids</hi> ſake. Be of good comfort, <hi>There is work to do for the Lords young Diſciples, that are in their firſt love; and their love to their Saviour and his intereſt, will be tried.</hi> There is buſineſs alſo for the Lords old Diſciples, that have been tried already, and have overcome: let them continue faithful to the death, and they ſhall receive a crown of life, a crown of righteouſneſs, which the Lord is preparing for them that love his appearing.</p>
+            <p>Brethren, I have received your Meſſengers with gladneſs, and we do mutually refreſh each other: the Lord be with your Spirit. I ſhall further enlarge my thoughts the next op<g ref="char:EOLhyphen"/>portunity: pray, and ſtrive in prayer, for a poor worthleſs creature: the Lord is good to me in abundance: I long to appear with joy in the great Congregation.</p>
+            <closer>
+               <dateline>From my captivity in <hi>Wind<g ref="char:EOLhyphen"/>ſor,</hi> 
+                  <date>the <hi>15</hi> of the <hi>1</hi> Moneth, <hi>1653/4.</hi>
+                  </date>
+               </dateline>
+               <signed>Your faithful Shep<g ref="char:EOLhyphen"/>herd in bonds, <hi>Christoph. Feake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Dearly Beloved in the Lord Jeſus,</salute>
+            </opener>
+            <p>THe deſire of my Soul on your behalf, is this, That the Lord would ſo communicate himſelf to you, that ye might be (like the Saints at <hi>Rome</hi> in <hi>Pauls</hi> time) full of good<g ref="char:EOLhyphen"/>neſs, filled with all knowledge, able alſo to admoniſh one another; and in that caſe, I ſhould rejoyce with you all a<g ref="char:EOLhyphen"/>bundantly; for my chains and bonds would be lighter and eaſier to me by many degrees. Whereas now I muſt ingenu<g ref="char:EOLhyphen"/>ouſly confeſs before the Lord, and unto you, that the care that cometh upon me daily, becauſe of you, is more unto me, then all the cruel mockings and ſcourgings with the
+<pb n="32" facs="tcp:114658:29"/>tongue; yea, even then my bonds and impriſonment which I indure at this day. The honour of our dear Lord is ſo much concerned in your walking, and comunion together, in your ſweet, gentle, meek and holy behaviour, in the ordering and managing of the affairs of Chriſts ſpiritual Kingdom, through him ſet up by you, that ſtill, at every turn, you come into my thoughts: How do they walk? do they walk orderly? do they pleaſe God? do they edifie one another in love? have the adverſaries no cauſe to ſpeak reproachfully? hath their adverſary the Devil no advantage to ſpeak againſt them? do they pray in the holy Spirit? <hi>Is there a high and a mighty Spirit for God, and for Chriſt, and for his Cauſe, in the midſt of them?</hi> Ah! Brethren, I think with my ſelf, how ſhall I finde you when I come unto you again? Have you increaſed with the increaſings of God? are you more and more ſtrengthened with might by his Spirit in the inner man? do you live by the faith of the Son of God? I would to God I might finde you leſs luke-warm, and more zealous for the Lord, then when I left you, <hi>more in the Spirit, and leſs in the fleſh, and in ſelf, and in this world.</hi> Do none of your eyes begin to daz<g ref="char:EOLhyphen"/>zle at the glory and ſplendor of the Court? as do the eyes of others. Come, Brethren, a day in the Lords Courts, is better then a thouſand, in any Princes Court upon the face of the Earth; and for my part, I had rather be a door<g ref="char:EOLhyphen"/>keeper, or ſit at the threſhold of the Lords Houſe, then to dwell in the Tents or Palaces of wickedneſs. It may be the Lord hath called me aſide for a ſhort ſpace, for this very purpoſe, to tempt you, and to prove you, and to ſee what is in each of you, and what the workings of your Spirits are; and to let you know by experience, that the wiſ<g ref="char:EOLhyphen"/>dom of God, in appointing guides and leaders to your uſe and edifying, is that which cannot but be acceptable to the ſo<g ref="char:EOLhyphen"/>ber, ſerious and ſtedfaſt Saints.</p>
+            <p>As for mine own condition, I deſire to deal plainly with you. Bleſſed be my God, and my gracious Father, my lot is falſen to me in a pleaſant place, and I have a goodly heri<g ref="char:EOLhyphen"/>tage: as for perſonal contentment, it is very great. I am
+<pb n="33" facs="tcp:114658:29"/>doing my Fathers work and will; I am ſuffering for the Go<g ref="char:EOLhyphen"/>ſpel of the Kingdom; I am learning to be more conformable to Chriſt my Head, in learning obedience by the things that I ſuffer. It is abſolutely the beſt eſtate for the preſent, that my heavenly Father can put me into. The words of <hi>Mano<g ref="char:EOLhyphen"/>ah</hi>'s wife to him, are ſweet unto me: If the Lord were pleaſed to kill us, he would not have received a burnt-offer<g ref="char:EOLhyphen"/>ing, and a meat-offering at our hands, neither would he have ſhewed us all theſe things, nor would, as at this time, have told us ſuch things as theſe: ſo I ſay, If the Lord were not pleaſed with our ſufferings in this Cauſe; if this ſervice for Chriſt-were not acceptable (but unacceptable) unto him, he would never have revealed himſelf ſo graciouſly and ſo gloriouſly unto us, as he hath done; he would never have filled us with ſo ſweet peace and joy in believing; but our hearts would have condemned us, if he had left us: ſo that through rich mercy, I am not careful, what men think of us, what their opinions are, how they carry <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelves, in ſpeaking evil of things they know not. It is ſufficient, and abundantly ſufficient to us, that our comforts abound and increaſe, they diminiſh not. I tell you, Brethren, the very confidence that God hath put into us by his Word and Spi<g ref="char:EOLhyphen"/>rit, hath great recompence of reward. There are two things, that do, I am perſwaded, work for our good. 1. The malice of our enemies, that ſcorn us, and backbite us, and judge us buſie-bodies, and evil doers, and diſturbers of the peace, <hi>&amp;c.</hi> ſaith the Lord to us, Your enemies ſpeak falſly, <hi>and the more they curſe, the more I bleſs, and will bleſs.</hi> Verily, this is ſweeter then honey. And then ſecondly, There are a company of faithful ſouls, who in the light of God, do underſtand the preſent Cauſe of Chriſt, and that we are ſuf<g ref="char:EOLhyphen"/>ferers upon that acount; and ſo they wreſtle, and will not let the Lord go, unleſs he bleſs us, poor priſoners, with ſpecial and ſutable bleſſings. Verily, I bleſs the Lord night and day in remembrance of the prayers of the Saints, who underſtand the times, next unto my bleſſing his name for the glorious interceſſion of our faithful and merciful High-Prieſt.</p>
+            <pb n="34" facs="tcp:114658:30"/>
+            <p>Finally, Brethren, farewel; live in love, follow thoſe things that make for peace, and, whereby one may edifie another: do not grieve one anothers Spirits by any uncom<g ref="char:EOLhyphen"/>ly expreſſions, in words or behaviour. Grieve not the Spi<g ref="char:EOLhyphen"/>rit of Chriſt; but ſtudy the happineſs of the whole body, and glorifie the Lord by an holy, ſweet, meek and gentle, profitable converſation. I ſalute you every one once more in our dear Redeemer. Imitate thoſe who walk moſt like Jeſus Chriſt, and we ſhall meet again with joy, and our joy ſhall no man take from us, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>From my Priſon-lodg<g ref="char:EOLhyphen"/>ing, <date>the laſt day of the <hi>3</hi> week of the <hi>1</hi> moneth, <hi>--54.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours, next unto my being Chriſts, deſirous of your beſt good, <hi>Chriſtoph. Feake.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Dear Brethren,</salute>
+            </opener>
+            <p>THe ſuperabounding ſatisfaction, wherewith the Lord hath condeſcended to inrich a poor, empty creature, calls aloud upon me, to magnifie his Goodneſs toward me. If I ſhould tell you a feigned ſtory of That which I have not ſeen, nor felt, nor experienced in my ſelf, the Lord would finde me out, and make me an example (to thoſe that ſhould come after) of his ſeverity and ſtrict dealing with me; but in very deed, I do plainly perceive that the Lord hath pur<g ref="char:EOLhyphen"/>poſed to ſhew me more of his glory.</p>
+            <p>Indeed, a great part of my care will be concerning You, to whom I am as neerly related in the fellowſhip and ſervice of the Goſpel, as ever, notwitſtanding this diſtance; and therefore, ſhall not ceaſe praying for you, as I have begun, that you may every one adorn the glorious Goſpel of the bleſſed God, and <hi>walk worthy of the Lord who hath called you
+<pb n="35" facs="tcp:114658:30"/>unto his Kingdom and Glory.</hi> And I would that you ſhould underſtand, Brethren, and believe, that the things which have befallen me, have come to paſs rather for the further<g ref="char:EOLhyphen"/>ance of the Goſpel, then otherwiſe; and I hope ſome, if not many of the Brethren in the Lord Jeſus, will grow confi<g ref="char:EOLhyphen"/>dent by my bonds, and will be much more bold to ſpeak the word without fear, conſidering eſpecially, that the Lord hath made a moſt ſweet addition to my former joy and comfort in the Holy Spirit; <hi>ſo that I may ſay boldly, The Lord is my Helper, I will not fear what man can do unto me.</hi>
+            </p>
+            <p>I know I ſhall ere long come again, and continue with you all, for your furtherance, and the joy of your faith, that your rejoycing in Chriſt Jeſus may be more abundant for me, by my coming to you again.</p>
+            <p>Dear Brethren, <hi>Innocency and Independency make the higheſt and the mightieſt Spirits;</hi> and let the Princes, the Prieſts, the Captains (who are ſo buſie in bolſtring up the curſed whore of <hi>Babylon)</hi> know it for a Truth, that the Lords Hidden, Ho<g ref="char:EOLhyphen"/>ly Ones, will in the might of the Spirit of Jehovah, ſhout down the walls of the Babyloniſh <hi>Jericho:</hi> though they are as high as Heaven, they ſhall come tumbling down. <hi>Amen. Hallelujah. Oh! that I might be one of the teeth of that ſharp threſhing inſtrument, which the worm Jacob ſhall ere long be trans<g ref="char:EOLhyphen"/>formed into;</hi> and ſo help to threſh the High and Mighty Moun<g ref="char:EOLhyphen"/>tains of the Earth, and to beat them ſmall, and to make the Hills as chaff.</p>
+            <p>I do very much hope, when I come again, I ſhall come in the fulneſs of the bleſſing of the Goſpel, more then ever. Where<g ref="char:EOLhyphen"/>fore I beſeech you to be at peace among your ſelves, to ad<g ref="char:EOLhyphen"/>moniſh the diſorderly in abundance of tenderneſs in love, to comfort the feeble-minded, to ſupport the weak, to viſit the fatherleſs and widows, that are widows indeed.</p>
+            <p>I thought to have ſpoken with ſome, concerning whom it was needful to look into their condition; but the wiſe God prevents me for the preſent, that I may hereafter have more light from his word to guide me in difficult affairs. Pray forme, that in this retirement, I may attain better to
+<pb n="36" facs="tcp:114658:31"/>underſtand, then ever hitherto, <hi>how to behave my ſelf in the Church of God, in the houſe of the living God.</hi> Oh! it's ſweet to be ſenſible of a growth in grace, and in the knowledge of our Lord and Saviour Jeſus Chriſt; to whom be glory and dominion, now and for ever, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>From my pleaſant country<g ref="char:EOLhyphen"/>houſe, <date>this <hi>31</hi> of the <hi>11</hi> Moneth, <hi>1653.</hi>
+                  </date>
+               </dateline>
+               <signed>Your faithful remembrancer at the glorious Throne of Grace. CHRISTOPH. FEAKE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Dear Brethren, Beloved in the Lord,</salute>
+            </opener>
+            <p>FOr whoſe beſt good and greateſt happineſs I would be content to endure (through the ſtrength of Chriſt) whatever the Lord ſhould be pleaſed to permit man to do unto me. It may be the Lord is but beginning to accuſtome me to the yoake, having hotter ſervice yet behinde for me to be engaged in. I confeſs, <hi>I ſuffer trouble as an evil doer, even unto bonds,</hi> 2 Tim. 2.9. <hi>but</hi> (my comfort is, as was <hi>Paul</hi>'s) <hi>the word of God is not bound; and</hi> (Oh that I could ſpeak the Apoſtles following words in his Spirit) <hi>there<g ref="char:EOLhyphen"/>fore I endure all things for the Elects ſake, that they alſo may obtain the ſalvation which is in Chriſt Jeſus with eternal glory.</hi>
+            </p>
+            <p>As for my ſelf, I have no cauſe to complain, but rather to magnifie the wiſdom, power and goodneſs of my God, who in the riches of his Grace, hath in ſome meaſure inabled me, and counted me faithful, putting me into the Miniſtery; who naturally, and from mine own inclination, am very apt to ſlothfulneſs and negligence, to dulneſs and luke-warm<g ref="char:EOLhyphen"/>neſs; inſomuch that I wonder to conſider, how the Spirit
+<pb n="37" facs="tcp:114658:31"/>of Chriſt hath from time to time over-powered my natural temper, cauſing me, <hi>with much effectualneſs of Grace,</hi> to be in ſome degree laborious in his harveſt-field: the remembrance whereof is (among other particulars) a moſt ſweet refreſh<g ref="char:EOLhyphen"/>ment to my ſoul in this my baniſhment from his Houſe and Temple for a time: what his intent is in ordering me ſuch a portion for the preſent, will in time appear. But in the mean ſeaſon, my care and ſollicitouſneſs for the Church is abundantly above the care of my ſelf: I am not ſollicitous for mine own concernments; <hi>being fully ſatisfied in the light of God, that it is unſpeakably for my good to be thus dealt withal by theſe men.</hi> The great thoughtfulneſs of my heart is for you all, who have in good earneſt given your ſelves up to the Lord, that you might, <hi>in this curi<g ref="char:EOLhyphen"/>ous juncture of time,</hi> have your converſation as it becometh the Goſpel: And a true report of your holy, loving, ſtedfaſt walking with the Lord, and one with another, will be my great joy and rejoycing before the Lord Jeſus, both now, and at his appearing. Wherefore, if it were the good will of God to give you all, freſh and further diſcoveries of his minde, how you ought to walk, and to pleaſe him, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hile I am thus by force kept from among you, what bleſſed occa<g ref="char:EOLhyphen"/>ſions ſhould I have to break forth here, in bleſſing and prai<g ref="char:EOLhyphen"/>ſing the Lord abundantly in this behalf?</p>
+            <p>I deſire exceedingly to rejoyce in the beholding your Or<g ref="char:EOLhyphen"/>der, and the ſtedfaſtneſs of your faith in Chriſt: for I much fear leſt by ſome means the Tempter ſhould tempt you, or ſome of you, and ſo my labour be ſo far in vain, as the temptation doth prevail: And ſome of you may remember, <hi>I forewarned you of this hour of temptation long before;</hi> which I told you would try the ſtrongeſt Chriſtians, ſo reputed; but now plainly ſee, if Ancient Profeſſors among you be not ve<g ref="char:EOLhyphen"/>ry circumſpect, you may ſee that Scripture further fulfilled every day; <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he firſt ſhall be last, and the laſt ſhall be firſt.</hi>
+            </p>
+            <p>Now by way of faithful advice, in reference to Order, and orderly walking, I take it for a truth granted, (as which cannot with any colour be denied) That thoſe Saints, who
+<pb n="38" facs="tcp:114658:32"/>are come out of <hi>Babylon,</hi> and brought to <hi>Sion,</hi> and are become a peculiar people to the Lord, and a particular body or cor<g ref="char:EOLhyphen"/>poration to Chriſt, I ſay, they ought to continue together in prayer &amp; ſupplication with one accord; ſo they did, <hi>Act.</hi> 1.14. and it is ſaid, <hi>Peter</hi> ſtood up in the midſt of the Diſciples: &amp; ſee <hi>Act.</hi> 2.42. <hi>And they continued ſtedfastly in the Apostles doctrine, and fellowſhip, and in breaking of bread, and in prayers: they that believed were together,</hi> verſ. 44. and the Apoſtle, <hi>Heb.</hi> 10.25. not forſaking the aſſembling of our ſelves together, as the manner of ſome is; but exhorting one another; and ſo much the more, as ye ſee the day approaching. Theſe things are n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t proved to you; but you are put in minde of this foundation-Truth in reference to diſcipline and worſhip; for thoſe things are to be tranſacted in the aſſemblings of the Saints, as being for the glory of God, and the edi<g ref="char:EOLhyphen"/>fuing of the Body. But the thing wherein I would be helpful at this point of time, is, to propound waies for the practiſing of this rule of continuing and walking together.</p>
+            <p n="1">1. Firſt, Let the Elders and Brethren agree with one ac<g ref="char:EOLhyphen"/>cord, that the whole Church be gathered together in the na<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Chriſt, to conſider, after earneſt prayer to that purpoſe, how they may be kept together: for this Hour of temptation will endanger the ſca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tering of many. Againſt that day which is appointed, I ſhall prepare ſomewhat for di<g ref="char:EOLhyphen"/>rection.</p>
+            <p n="2">2. Let thoſe that are unacquainted with their duty, (judging it to be their liberty, without further waiting, to provide for their ſpiritual feeding elſewhere) let them, I ſay, know, that if all ſhould be of their minde, what would become of the Churches of Chriſt? Let them not have more reſpect to their particular private benefit, though ſpiritual, then to the glory, work and buſineſs of Chriſt; at leaſt, let them attend upon the Lord with the Church, to obtain their deſire with conſent of the whole body; and brotherly love requires this: and let them give in their Ar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uments diſtinctly, that they may be weighed by Scripture. It is the opinion indeed and practice of ſome, if the Officer be abſent, to wander hither and thither, and ſo fall into ſuares ere they are aware:
+<pb n="39" facs="tcp:114658:32"/>and there have been woful inſtances of this.</p>
+            <p n="3">3. Let not any debate proceed ſo far, as to hinder edify<g ref="char:EOLhyphen"/>ing, and engender ſtrife; but let there be care taken to prevent ſtrife, as men are careful to prevent the breaking in of waters. The Lord hath bleſſed my endeavours this way hitherto, and I have much comfort herein at this day.</p>
+            <p n="4">4. In debating any thing or caſe, that is ſtated according to Scripture, let the Brethren ſpeak firſt, that ſo if there be any light among them, it may be noted: and this will be looked upon, as the enjoyment of that liberty that Chriſt hath given; <hi>But if any man ſpeak, let him ſpeak as the Oracles of God,</hi> and briefly and diſtinctly to the point.</p>
+            <p n="5">5. Covet the beſt gifts: thoſe Brethren in whom moſt of the power and glory of the Spirit of Chriſt doth appear, who are mighty in the Scriptures, who are moſt lively, ſpiritual and warming, are to be deſired and called upon; and if there were none to ſpeak to you from the word, yet it were worth while to come together to pray in the Holy Ghoſt, which is one bleſſed means for the quickning of our dull and ſluggiſh hearts.</p>
+            <p n="6">6. If there be a deſire to joyne with any of the Churches in the Ordinance of the Lords-ſupper, conſider with whom, and when, <hi>&amp;c.</hi> let there be mutual conſent in brotherly love.</p>
+            <p>Oh! <hi>that the Spirit might lead you into all truth!</hi> My great deſire is, That you may ſo walk, as to glorifie the Lord a<g ref="char:EOLhyphen"/>bundantly.</p>
+            <closer>
+               <dateline>
+                  <date>This <hi>3</hi> day of the <hi>12</hi> Moneth, <hi>1653.</hi>
+                  </date>
+               </dateline>
+               <signed>Yours to love you, to ſerve you, to ſuffer for you, CHRISTOPHER FEAKE.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
